@@ -1,0 +1,2961 @@
+{
+  "@timestamp": "28-08-2013   09:21:55 AM",
+  "restaurant":   [
+        {
+      "propCode": "rlv",
+      "name": "All-American Bar and Grille",
+      "brand": "rio",
+      "phone": "(702) 777-7767",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "7",
+      "market": "lvm",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/all-american-bar-and-grille.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/rlv/Dining/Casual/all american bar and grille/All American Bar and Grille Dinner Menu.pdf",
+      "shortDescription": "This casual dining Las Vegas restaurant serves in-house &ldquo;Rio Dry Aged&rdquo; steaks and seafood cooked over a mesquite grill, plus salads and sandwiches.",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/rlv/Dining/Casual/all american bar and grille/Rio-All-Suite-Hotel-Dining-Casual-all-american-bar-and-grille-1.jpeg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Casual/all american bar and grille/Rio-All-Suite-Hotel-&-Casino-Dining-Casual-All-American-Bar-&-Grille-1.jpg",
+      "facts": [      {
+        "day": "Daily",
+        "time": "11am-6am"
+      }],
+      "hours":       [
+                {
+          "day": "Sun &amp; Mon",
+          "time": "11am-6am"
+        },
+                {
+          "day": "Tue",
+          "time": "11am-11pm"
+        },
+                {
+          "day": "Wed-Sat",
+          "time": "11am-6am"
+        }
+      ]
+    },
+        {
+      "propCode": "rlv",
+      "name": "BK Whopper Bar",
+      "brand": "rio",
+      "phone": "(866) 746-7671",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "9",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/bk-whopper-bar.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Customize your WHOPPER&reg; sandwich with your choice of 22 toppings at any hour of the day in the WHOPPER&reg; bar Las Vegas restaurant at Rio All-Suite Hotel &amp; Casino.",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/rlv/Dining/Quick Bites/BK Whopper Bar/Rio-All-Suite-Hotel-Dining-Quick-Bite-BK-Whopper-Bar-1.jpg",
+      "logoImageUrl": "/content/dam/clv/placeholder.jpg",
+      "facts": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }],
+      "hours": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "propCode": "blv",
+      "name": "BLT Steak",
+      "brand": "ballys",
+      "propertyRank": "3",
+      "market": "lvm",
+      "learnMoreURL": "/content/property/BallysLasvegas/index/restaurants/blt-steak",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "category": "upscale",
+      "shortDescription": "Coming Soon to Bally's Las Vegas!",
+      "cuisine": "Steakhouse",
+      "mainImageUrl": "/content/dam/blv/Dining/Upscale/BLT Steak/Ballys-Las Vegas-Dining-Upscale-BLT-Steak-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Daily",
+        "time": "5pm-11pm"
+      }],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png"
+    },
+        {
+      "name": "Bacchanal Buffet",
+      "brand": "caesars",
+      "averagecheck": "Breakfast: $20+&lt;br&gt;Lunch: $30+&lt;br&gt;Dinner: $40+",
+      "propertyRank": "1",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/bacchanal-buffet.html",
+      "marketRank": "30",
+      "isFeatured": "true",
+      "attire": "Casual",
+      "category": "buffet",
+      "chef": "Michael Van Staden",
+      "propCode": "clv",
+      "phone": "(702) 731-7928",
+      "market": "lvm",
+      "expenseLevel": "$$$$",
+      "dinnerMenu": "/content/dam/clv/Dining/Buffet/Bacchanal/Bacchanal-Menu-Aug-2013.pdf",
+      "shortDescription": "Bacchanal Buffet features more than 500 items prepared by a team of master chefs in nine globally-inspired open kitchens.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/clv/Dining/Buffet/Bacchanal/Caesars-Las-Vegas-Dining-Buffet-Bacchanal-155.jpg",
+      "logoImageUrl": "/content/dam/clv/Dining/Buffet/Bacchanal/Caesars-Las-Vegas-Dining-Buffet-Bacchanal-1.jpg",
+      "facts": [      {
+        "day": "Daily",
+        "time": "7am - 10pm"
+      }],
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Breakfast&lt;br&gt;Monday - Friday",
+          "time": "7am-11am"
+        },
+                {
+          "day": "Brunch&lt;br&gt;Saturday - Sunday",
+          "time": "8am-3pm"
+        },
+                {
+          "day": "Lunch",
+          "time": "11am-3pm"
+        },
+                {
+          "day": "Dinner&lt;br&gt;Sunday - Saturday",
+          "time": "3pm-10pm"
+        }
+      ]
+    },
+        {
+      "propCode": "blv",
+      "rank": "1",
+      "name": "Bally's Steakhouse",
+      "brand": "ballys",
+      "phone": "(877) 346-4642",
+      "averagecheck": "$28",
+      "market": "lvm",
+      "propertyRank": "1",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/ballys-steakhouse.html",
+      "marketRank": "1",
+      "averageCheck": "$30/Person",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/blv/Dining/Upscale/ballys-steakhouse/Ballys-Las Vegas-Dining-Upscale-ballys-steakhouse-1.pdf",
+      "shortDescription": "Classic steaks, chops and seafood are served in an elegant New England hunt club style atmosphere at the Bally&rsquo;s Las Vegas steakhouse.",
+      "cuisine": "Steakhouse",
+      "mainImageUrl": "/content/dam/blv/Dining/Upscale/ballys-steakhouse/Bally%27s-Las-Vegas-Dining-Upscale-Bally%27s-Steakhouse-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Daily",
+        "time": "5:30pm-10:30pm"
+      }],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "5:30pm-10:30pm"
+      }]
+    },
+        {
+      "propCode": "flv",
+      "name": "Beach Club Bar &amp; Grill",
+      "brand": "flamingo",
+      "phone": "(702) 733-3333",
+      "averagecheck": "$15",
+      "market": "lvm",
+      "propertyRank": "8",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/beach-club-bar-and-grill.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "shortDescription": "Beach Club Bar and Grill is a seasonal poolside spot offering snacks and lunch poolside at the Flamingo Las Vegas Hotel and Casino&rsquo;s Beach Club.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/flv/Dining/Casual/beach-club/Flamingo-Las-Vegas-Dining-Casual-Beach-Club-1.jpg",
+      "logoImageUrl": "/content/dam/clv/placeholder.jpg",
+      "facts": [      {
+        "day": "Daily",
+        "time": "6am-9pm"
+      }],
+      "hours": [      {
+        "day": "Daily ",
+        "time": "9am-6pm"
+      }]
+    },
+        {
+      "propCode": "clv",
+      "name": "Beijing Noodle No. 9",
+      "brand": "caesars",
+      "phone": "(877) 346-4642",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "13",
+      "market": "lvm",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/beijing-noodle-number-9.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/clv/Dining/Casual/beijing-noodle-no9/Beijing Noodle No 9 Menu.pdf",
+      "shortDescription": "Beijing Noodle No. 9 offers Northern Chinese cuisine in a friendly, casual atmosphere. The best restaurants in Las Vegas can only be found at Caesars.",
+      "cuisine": "Chinese",
+      "chef": "Li Yu",
+      "mainImageUrl": "/content/dam/clv/Dining/Casual/Beijing Noodle No 9/Caesars-Las-Vegas-Dining-Casual-Beijing-Noodle-No-9-5.jpg",
+      "logoImageUrl": "/content/dam/clv/Dining/Casual/Beijing Noodle No 9/Caesars-Las-Vegas-Dining-Casual-Beijing-Noodle-No-9-1.gif",
+      "facts": [      {
+        "day": "Daily",
+        "time": "11am - 10:30pm"
+      }],
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "11am-10:30pm"
+      }]
+    },
+        {
+      "propCode": "ilv",
+      "name": "Betty's Diner &amp; Cyber Cafe",
+      "brand": "the_quad",
+      "phone": "(702) 731-3311",
+      "averagecheck": "$5 to $15",
+      "propertyRank": "4",
+      "market": "lvm",
+      "learnMoreURL": "http://www.thequadlv.com/restaurants/bettys-diner-and-cyber-cafe.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Satisfy your sweet tooth with ice cream, shakes and sundaes or fill up with a burger, dog or sandwich.",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/ilv/Dining/Quick Bites/bettys-diner/The-Quad-Dining-Quick-Bites-Betty%27s-Diner-1.jpg",
+      "logoImageUrl": "/content/dam/phv/Logos/Planet-Hollywood Resort & Casino-Logos-1.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "6am-2am"
+      }]
+    },
+        {
+      "rank": "1",
+      "propCode": "plv",
+      "propertyname": "Paris Las Vegas",
+      "name": "Burger Brasserie",
+      "brand": "paris",
+      "phone": "(702) 946-4346",
+      "averagecheck": "$14",
+      "propertyRank": "1",
+      "market": "lvm",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/burger-brasserie.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/plv/Dining/Casual/Le Burger Brasserie/Le Burger Brasserie Menu.pdf",
+      "shortDescription": "Enjoy a true gourmet burger at Burger Brasserie, a lively Las Vegas restaurant offering a French interpretation of the meat-and-potatoes sports bar at Paris Las Vegas.",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/plv/Dining/Casual/Le Burger Brasserie/Paris-Las-Vegas-Dining-Casual-Le-Burger-Brasserie-5.jpeg",
+      "logoImageUrl": "/content/dam/plv/Dining/Casual/Le Burger Brasserie/Paris-Las-Vegas-Dining-Casual-Le-Burger-Brasserie-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "11am-12am"
+      }]
+    },
+        {
+      "propCode": "rlv",
+      "rank": "1",
+      "name": "Buzios Seafood Restaurant",
+      "brand": "rio",
+      "phone": "702-777-7697",
+      "averagecheck": "$25 to $40",
+      "propertyRank": "4",
+      "market": "lvm",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/buzios-seafood-restaurant.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/rlv/Dining/Casual/buzios/buzios-menu-aug-2013.pdf",
+      "shortDescription": "The freshest seafood in Las Vegas and traditional New England fare is served at B&uacute;zios Seafood Restaurant overlooking VooDoo Beach.",
+      "cuisine": "Seafood",
+      "mainImageUrl": "/content/dam/rlv/Dining/Casual/buzios/Rio-All-Suite-Hotel-&-Casino-Dining-Casual-Buzios-1.jpg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Casual/buzios/Rio-All-Suite-Hotel-&-Casino-Dining-Casual-Buzios-1.jpg",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "5pm-10:30pm"
+        },
+                {
+          "day": "Fri-Sat",
+          "time": "5pm-11pm"
+        }
+      ],
+      "hours": [      {
+        "day": "Nightly",
+        "time": "5:30pm - 11pm"
+      }]
+    },
+        {
+      "propCode": "plv",
+      "rank": "1",
+      "name": "Cafe Belle Madeleine",
+      "brand": "paris",
+      "phone": "(702) 946-7000",
+      "averagecheck": "$11",
+      "propertyRank": "7",
+      "market": "lvm",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/cafe-belle-madeleine.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Sweet or savory desires can be satisfied at Caf&eacute; Belle Madeleine, a Paris Las Vegas quick service restaurant serving freshly brewed coffee, espresso and cappuccino.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/plv/Dining/Quick Bites/Café Belle Madeleine/Paris-Las-Vegas-Dining-Quick-Bites-Café-Belle-Madeleine-3.jpg",
+      "logoImageUrl": "/content/dam/plv/Dining/Casual/cafe belle madeleine/Paris-Las-Vegas-Dining-Casual-Caf?-Belle-Madeleine-2.png",
+      "facts": [      {
+        "day": "Daily",
+        "time": "6:30am-12am"
+      }],
+      "hours": [      {
+        "day": "Daily",
+        "time": "6am-1am"
+      }]
+    },
+        {
+      "propCode": "flv",
+      "name": "Carlos 'n Charlie's",
+      "brand": "flamingo",
+      "phone": "702-522-9254",
+      "averagecheck": "$20",
+      "market": "lvm",
+      "propertyRank": "6",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/carlos-n-charlies-las-vegas.html",
+      "averageCheck": "$20/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/flv/Dining/Casual/Carlos N Charlies/Carlos n Charlies Dinner Menu.pdf",
+      "shortDescription": "Get loose, get loud and get fun at Carlos&rsquo;n Charlie&rsquo;s, the Mexican casual restaurant&rsquo;s first west coast location, at this Las Vegas restaurant.",
+      "cuisine": "Mexican/Southwestern",
+      "url": "http://carlosncharlieslv.com/",
+      "mainImageUrl": "/content/dam/flv/Dining/Casual/Carlos N Charlies/Flamingo-Las-Vegas-Dining-Casual-Carlos-N-Charlies-4.jpg",
+      "logoImageUrl": "/content/dam/flv/Property/Logos/Flamingo-Las-Vegas-Property-Logos-6.png",
+      "facts": [      {
+        "day": "Daily",
+        "time": "11am-2am"
+      }],
+      "whitelogo": "/content/dam/flv/Logos/Flamingo-Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "11am-2am"
+      }]
+    },
+        {
+      "propCode": "las",
+      "name": "Carnaval Grill",
+      "brand": "harrahs",
+      "phone": "702-369-5724",
+      "market": "lvm",
+      "propertyRank": "4",
+      "learnMoreURL": "http://www.harrahslasvegas.com//restaurants/carnaval-grill.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/las/Dining/Casual/carnaval-grill/Harrahs-Las%20Vegas-Dining-Casual-carnaval-grill-menu.pdf",
+      "shortDescription": "Carnaval Grill is now open and located directly behind our Carnival Court stage serving up your favorite grill items!",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/las/Dining/Casual/carnaval-grill/Harrahs-Las Vegas-Dining-Casual-carnaval-grill-1.jpg",
+      "logoImageUrl": "/content/dam/las/Dining/Casual/carnaval-grill/Harrahs-Las Vegas-Dining-Casual-carnaval-grill-1.jpg",
+      "facts":       [
+                {
+          "day": "Mon-Thu",
+          "time": "6am-2pm, 11pm-6am"
+        },
+                {
+          "day": "Fri-Sun",
+          "time": "24 Hours"
+        }
+      ],
+      "hours": [      {
+        "day": "Open daily",
+        "time": "11am - 3am"
+      }]
+    },
+        {
+      "rank": "1",
+      "propCode": "rlv",
+      "name": "Carnival World Buffet",
+      "brand": "rio",
+      "phone": "(702) 777-7757",
+      "averagecheck": "$25 to $40",
+      "propertyRank": "100",
+      "market": "lvm",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/carnival-world-buffet.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$$",
+      "category": "buffet",
+      "shortDescription": "Choose from over 300 selections daily at the Carnival World Buffet, the best buffet in Las Vegas, at Rio All-Suite Hotel and Casino.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/rlv/Dining/Buffet/carnival world buffet/Rio-All-Suites Hotel & Casino-Dining-Buffet-carnival-world buffet-1.jpg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Buffet/carnival world buffet/Rio-All-Suite-Hotel-&-Casino-Dining-Buffet-Carnival-World-Buffet-8.png",
+      "facts":       [
+                {
+          "day": "Mon-Fri Breakfast",
+          "time": "8am-11am"
+        },
+                {
+          "day": "Lunch",
+          "time": "11am-3:30pm"
+        },
+                {
+          "day": "Daily Dinner",
+          "time": "3:30pm-10pm"
+        },
+                {
+          "day": "Sat, Sun Champagne Brunch",
+          "time": "8am-3:30pm"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Breakfast Mon-Fri",
+          "time": "8am-11am"
+        },
+                {
+          "day": "Lunch Mon-Fri ",
+          "time": "11am-3:00pm "
+        },
+                {
+          "day": "Dinner Daily  ",
+          "time": "3:00pm-10pm"
+        },
+                {
+          "day": "Breakfast Sat/Sun",
+          "time": "8am-10am"
+        },
+                {
+          "day": "Brunch Sat &amp; Sun ",
+          "time": "10am-3pm"
+        }
+      ]
+    },
+        {
+      "propCode": "flv",
+      "name": "Center Cut Steakhouse",
+      "brand": "flamingo",
+      "phone": "702-784-8821",
+      "averagecheck": "$50",
+      "propertyRank": "100",
+      "market": "lvm",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/center-cut-steakhouse.html",
+      "marketRank": "11",
+      "averageCheck": "$50/Person",
+      "isFeatured": "true",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/flv/Dining/Upscale/Center Cut Steakhouse/Center Cut Steakhouse Full Menu.pdf",
+      "shortDescription": "Mouth-watering steaks from Aspen Ridge Farms in Colorado are the centerpiece of Center Cut, the classic Flamingo Las Vegas steakhouse.",
+      "cuisine": "Steakhouse",
+      "logoImageUrl": "/content/dam/flv/Dining/Upscale/Center Cut Steakhouse/Flamingo-Las-Vegas-Dining-Upscale-Center-Cut-Steakhouse-1.png",
+      "facts": [      {
+        "day": "Daily",
+        "time": "5:30pm-10:30pm"
+      }],
+      "mainImageUrl": "/content/dam/flv/Dining/Upscale/Center Cut Steakhouse/Flamingo-Las-Vegas-Dining-Upscale-Center-Cut-Steakhouse-1.jpg",
+      "whitelogo": "/content/dam/flv/Logos/Flamingo-Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Daily",
+          "time": "5:30pm-10:30pm"
+        },
+                {
+          "day": "Happy Hour&lt;br&gt;Daily",
+          "time": "11am-7pm"
+        },
+                {
+          "day": "Bar&lt;br&gt;Daily",
+          "time": "12pm-12am"
+        }
+      ]
+    },
+        {
+      "propCode": "clv",
+      "name": "Central by Michel Richard",
+      "brand": "caesars",
+      "phone": "702-650-5921",
+      "averagecheck": "$25 to $40",
+      "propertyRank": "5",
+      "market": "lvm",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/central-by-michel-richard.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/clv/Dining/Casual/Central/Central-Dinner-Menu.pdf",
+      "shortDescription": "At Central, Chef Michel Richard serves American food with a French twist in a casual dining environment. For all the best restaurants in Las Vegas, try Caesars Palace.",
+      "cuisine": "American",
+      "url": "http://centrallv.com/",
+      "chef": "Michel Richard",
+      "mainImageUrl": "/content/dam/clv/Dining/Casual/Central/Caesars-Las-Vegas-Dining-Casual-Central-5.",
+      "logoImageUrl": "/content/dam/clv/Dining/Casual/Central/Caesars-Las-Vegas-Dining-Casual-Central-2.jpg",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "propCode": "ilv",
+      "name": "Coming Soon",
+      "brand": "the_quad",
+      "phone": "(702) 731-3311",
+      "market": "lvm",
+      "propertyRank": "5",
+      "learnMoreURL": "http://www.thequadlv.com/restaurants/guy-fieri.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "shortDescription": "Guy Fieri to open new restaurant",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/ilv/Dining/Casual/Guy Fieri/The-Quad Resort & Casino-Dining-Casual-Guy-Fieri-1.jpg",
+      "logoImageUrl": "/content/dam/ilv/Dining/Casual/quesadilla/The-Quad-Dining-Casual-Quesadilla-1.png"
+    },
+        {
+      "propCode": "clv",
+      "name": "Cypress Street Marketplace",
+      "brand": "caesars",
+      "phone": "(702) 731-7686",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "12",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/cypress-street-market-place.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Casual dining at Cypress Street Marketplace offers a wide variety of cuisines and specialty food. Find all the best Las Vegas restaurants at Caesars Palace.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/clv/Dining/Casual/Cypress Street Marketplace/Caesars-Las-Vegas-Dining-Casual-Cypress-Street-Marketplace-11.jpg",
+      "logoImageUrl": "/content/dam/clv/Dining/Casual/Cypress Street Marketplace/Caesars-Las-Vegas-Dining-Casual-Cypress-Street-Marketplace-11.jpg",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "11am-11pm"
+      }]
+    },
+        {
+      "propCode": "phv",
+      "name": "Earl of Sandwich",
+      "brand": "planet_hollywood",
+      "phone": "(702) 463-0259",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "4",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/earl-of-sandwich.html",
+      "averageCheck": "$10/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Planet Hollywood guests enjoy Las Vegas&rsquo; best sandwiches 24 hours a day at Earl of Sandwich, where you&rsquo;ll find fresh baked artisan bread and the finest ingredients.",
+      "cuisine": "Cafe/Variety",
+      "url": "http://www.earlofsandwichusa.com/",
+      "mainImageUrl": "/content/dam/phv/Dining/Casual/earl-of-sandwich/Planet-Hollywood-Resort-&-Casino-Dining-Casual-Earl-of-Sandwich-1.jpg",
+      "logoImageUrl": "/content/dam/phv/Property/Logos/Planet-Hollywood-Resort-&-Casino-Property-Logos-9.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "propCode": "plv",
+      "name": "Eiffel Tower Restaurant",
+      "brand": "paris",
+      "phone": "(702) 948-6937",
+      "averagecheck": "Lunch $35.00/per person&lt;br&gt; Dinner $75.00/per person",
+      "propertyRank": "5",
+      "market": "lvm",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/eiffel-tower-restaurant.html",
+      "marketRank": "13",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "shortDescription": "Acclaimed French cuisine by Chef J. Joho is served in a fine dining room with stunning views inside the Eiffel Tower at this Paris Las Vegas restaurant.",
+      "cuisine": "Steakhouse",
+      "url": "http://www.eiffeltowerrestaurant.com/",
+      "chef": "Chef J Joho",
+      "mainImageUrl": "/content/dam/plv/Dining/Upscale/eiffel tower restaurant/Paris-Las-Vegas-Dining-Upscale-Eiffel-Tower-Restaurant-6.jpg",
+      "logoImageUrl": "/content/dam/plv/Dining/Upscale/eiffel tower restaurant/Paris-Las-Vegas-Dining-Upscale-Eiffel-Tower-Restaurant-4.jpeg",
+      "hours":       [
+                {
+          "day": "Lunch&lt;br&gt;Mon-Fri",
+          "time": "11:30AM - 2:00PM"
+        },
+                {
+          "day": "Brunch&lt;br&gt;Sat-Sun",
+          "time": "11:00AM - 2:00PM"
+        },
+                {
+          "day": "Dinner&lt;br&gt;Sun-Thurs",
+          "time": "5:00PM - 10:30PM"
+        },
+                {
+          "day": "Fri-Sat",
+          "time": "5:00PM - 11:00PM"
+        }
+      ]
+    },
+        {
+      "propCode": "ilv",
+      "name": "Emperor's Buffet",
+      "brand": "the_quad",
+      "type": "buffet",
+      "averagecheck": "$15.99 to $18.99",
+      "propertyRank": "100",
+      "market": "lvm",
+      "learnMoreURL": "http://www.thequadlv.com/restaurants/emperor-s-buffet.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "buffet",
+      "shortDescription": "The Emperor&rsquo;s Buffet is the home of the daily brunch, offering endless combinations of mouth-watering Las Vegas dining experiences.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/ilv/Dining/Buffet/the-emperors-buffet/The-Quad-Dining-Buffet-The-Emperor%27s-Buffet-2.jpg",
+      "logoImageUrl": "/content/dam/ilv/Dining/Buffet/the-emperors-buffet/The-Quad-Dining-Buffet-The-Emperor%27s-Buffet-1.jpg",
+      "hours": [      {
+        "day": "Daily",
+        "time": "7am-2pm"
+      }]
+    },
+        {
+      "propCode": "clv",
+      "name": "Empress Court",
+      "brand": "caesars",
+      "phone": "(877) 346-4642&lt;/br&gt;&lt;br&gt;For groups of 12 or more&lt;br&gt;Please Call&lt;br&gt;(866)733-5827",
+      "averagecheck": "$25 to $40",
+      "propertyRank": "11",
+      "market": "lvm",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/empress-court.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/clv/Dining/Upscale/Empress Court/Empress Court Menu.pdf",
+      "shortDescription": "Dine on authentic Cantonese seafood at the Empress Court Chinese Restaurant, a premium Las Vegas restaurant at Caesars Palace Las Vegas.",
+      "cuisine": "Chinese",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/Empress Court/Caesars-Las-Vegas-Dining-Upscale-Empress-Court-1.jpg",
+      "logoImageUrl": "/content/dam/clv/Dining/Upscale/Empress Court/Caesars-Las-Vegas-Dining-Upscale-Empress-Court-2.jpg",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Sun, Wed &amp; Thu",
+          "time": "5pm-10pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "5pm-11pm"
+        }
+      ]
+    },
+        {
+      "propCode": "cl1",
+      "name": "Events",
+      "brand": "nobu",
+      "market": "lvm",
+      "propertyRank": "3",
+      "learnMoreURL": "/content/property/nobu/index/restaurants/events",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$$",
+      "category": "upscale",
+      "shortDescription": "Book your event at Nobu Restaurant and Lounge.",
+      "cuisine": "Japanese",
+      "mainImageUrl": "/content/dam/cl1/Dining/Upscale/Events/cl1-Dining-Upscale-Events-1.jpg",
+      "logoImageUrl": "/content/dam/cl1/Logos/cl1-Logos-2.png"
+    },
+        {
+      "propCode": "flv",
+      "name": "Flamingo Food Court",
+      "brand": "flamingo",
+      "phone": "(702) 369-4011",
+      "averagecheck": "$5 to $15",
+      "propertyRank": "1",
+      "market": "lvm",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/flamingo-food-court.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "The Flamingo Food Court puts together Las Vegas restaurants from Johnny Rockets, Bonanno&rsquo;s Pizzeria, Pan Asian Express and L.A. Subs &amp; Salads.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/flv/Dining/Quick Bites/Flamingo Food Court/Flamingo-Las-Vegas-Dining-Quick-Bites-Flamingo-Food-Court-2.jpg",
+      "logoImageUrl": "/content/dam/nor/Nightlife/Hoodoo Lounge/Harrahs-New Orleans-Nightlife-Hoodoo-Lounge-1.jpg",
+      "facts": [      {
+        "day": "Daily",
+        "time": "6am-9pm"
+      }],
+      "hours": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "propCode": "las",
+      "name": "Flavors, The Buffet",
+      "brand": "harrahs",
+      "phone": "(702) 369-5000",
+      "averagecheck": "$17.99 to $28.99",
+      "market": "lvm",
+      "propertyRank": "3",
+      "learnMoreURL": "http://www.harrahslasvegas.com/restaurants/flavors-the-buffet.html",
+      "marketRank": "15",
+      "averageCheck": "$20/Person",
+      "isFeatured": "true",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "shortDescription": "Flavors is a Las Vegas buffet featuring live cooking stations, all-you-can-eat crab legs and gelato in one of the Las Vegas Strip&rsquo;s most diverse buffets.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/las/Dining/Buffet/Flavors Buffet/Harrah%27s-Las-Vegas-Dining-Buffet-Flavors-Buffet-1.jpg",
+      "logoImageUrl": "/content/dam/las/Property/Logos/Harrahs-Las Vegas-Property-Logos-1.png",
+      "facts": [      {
+        "day": "Daily",
+        "time": "7am-10pm"
+      }],
+      "hours": [      {
+        "day": "Daily",
+        "time": "7am-10pm"
+      }]
+    },
+        {
+      "propCode": "ilv",
+      "name": "Ginseng 3",
+      "brand": "the_quad",
+      "phone": "(702) 731-3311",
+      "averagecheck": "$15 to $25",
+      "market": "lvm",
+      "propertyRank": "2",
+      "learnMoreURL": "http://www.thequadlv.com/restaurants/ginseng-3.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/ilv/Dining/Casual/ginseng-3/The-Quad-Resort-Dining-Casual-Ginseng-Menu-1.pdf",
+      "shortDescription": "Exotic Asian flavors are yours to explore 24 hours a day at Ginseng 3, a restaurant at The Quad serving Japanese, Chinese and Korean cuisine all day and night.",
+      "cuisine": "Asian Fusion",
+      "mainImageUrl": "/content/dam/ilv/Dining/Casual/ginseng-3/The-Quad-Dining-Casual-Ginseng-3-2.jpg",
+      "logoImageUrl": "/content/dam/ilv/Dining/Casual/ginseng-3/The-Quad-Dining-Casual-Ginseng-3-2.jpg",
+      "hours": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "rank": "1",
+      "propCode": "phv",
+      "name": "Gordon Ramsay BurGR",
+      "brand": "planet_hollywood",
+      "phone": "(702) 785-5555",
+      "averagecheck": "$25/per person",
+      "market": "lvm",
+      "propertyRank": "1",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/ramsay.html",
+      "marketRank": "1",
+      "averageCheck": "$40/Person",
+      "isFeatured": "true",
+      "attire": "Business Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "shortDescription": "Gordon Ramsay BurGR elevates the traditional burger experience by mixing comfort food with international-inspired fusions and fresh, quality ingredients. ",
+      "cuisine": "American",
+      "url": "http://www.gordonramsay.com/us-restaurants/las-vegas-restaurants/gordon-ramsay-burgr/",
+      "chef": "Eric Mickle",
+      "mainImageUrl": "/content/dam/phv/Art/Planet-Hollywood-Las-Vegas-Art-2.jpg",
+      "logoImageUrl": "/content/dam/phv/Dining/Upscale/strip house/Planet-Hollywood-Resort-&-Casino-Dining-Upscale-Strip-House-2.tif",
+      "hours":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11:00AM - 12:00AM"
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "11:00AM - 2:00AM"
+        }
+      ]
+    },
+        {
+      "propCode": "plv",
+      "rank": "1",
+      "name": "Gordon Ramsay Steak",
+      "brand": "paris",
+      "phone": "(877) 346-4642",
+      "averagecheck": "$100",
+      "market": "lvm",
+      "propertyRank": "4",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/gordon-ramsay-steak.html",
+      "averageCheck": "$85/Person",
+      "marketRank": "1",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/plv/Dining/Upscale/gordon ramsay/gordon-ramsay-dinner-menu-07-13.pdf",
+      "shortDescription": "World Famous TV personality and accomplished chef Gordon Ramsay has opened his first Las Vegas restaurant, the new steakhouse and Paris Las Vegas fine dining gourmet room.",
+      "cuisine": "Steakhouse",
+      "chef": "Gordon Ramsay",
+      "mainImageUrl": "/content/dam/plv/Dining/Upscale/gordon ramsay/Gordon Ramsay/Paris-Las-Vegas-Dining-Upscale-Gordon-Ramsay-6.jpeg",
+      "logoImageUrl": "/content/dam/plv/Dining/Upscale/gordon ramsay/Paris-Las-Vegas-Dining-Upscale-Gordon-Ramsay-Steak-1.png",
+      "hours":       [
+                {
+          "day": "Dining Room Daily",
+          "time": "4:30pm-10:30pm"
+        },
+                {
+          "day": "Bar/Lounge Sun-Thu",
+          "time": "4:30pm-10:30pm"
+        },
+                {
+          "day": "Bar/Lounge Fri &amp; Sat",
+          "time": "4:30pm-12am"
+        }
+      ]
+    },
+        {
+      "propCode": "clv",
+      "name": "Gordon Ramsay&lt;br&gt;Pub &amp; Grill",
+      "brand": "caesars",
+      "phone": "(877) 346-4642&lt;/br&gt;&lt;br&gt;For groups of 12 or more&lt;br&gt;Please Call&lt;br&gt;(866)733-5827",
+      "averagecheck": "$25 to $40",
+      "propertyRank": "4",
+      "market": "lvm",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/gordon-ramsay-pub-and-grill.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/clv/Dining/Upscale/Gordon Ramsay Pub &amp; Grill/Caesars-Palace-Grill-Menu.pdf",
+      "shortDescription": "Gordon Ramsay Pub &amp; Grill is the neighborhood restaurant conceptualized by the award-winning chef.&nbsp; The 290 seat restaurant is the most authentic English pub experience in Las Vegas, as only a native UK chef can provide.",
+      "cuisine": "Cafe/Variety",
+      "url": "http://www.gordonramsay.com/us-restaurants/las-vegas-restaurants/gordon-ramsay-pub-grill/",
+      "chef": "Gordon Ramsay",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/Gordon Ramsay Pub & Grill/Caesars-Palace Las Vegas-Dining-Upscale-Gordon-Ramsay-Pub-Grill-1.jpg",
+      "logoImageUrl": "/content/dam/plv/Dining/Upscale/gordon ramsay/Paris-Las-Vegas-Dining-Upscale-Gordon-Ramsay-Steak-1.png",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Sunday - Thursday",
+          "time": "11am - 11pm"
+        },
+                {
+          "day": "Friday &amp; Saturday",
+          "time": "11:00am - Midnight"
+        },
+                {
+          "day": "Lunch Daily",
+          "time": "11am - 3pm"
+        }
+      ]
+    },
+        {
+      "propCode": "flv",
+      "name": "Hamada of Japan",
+      "brand": "flamingo",
+      "phone": "(702) 400-3345",
+      "averagecheck": "$50",
+      "market": "lvm",
+      "propertyRank": "3",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/hamada-of-japan.html",
+      "marketRank": "1",
+      "averageCheck": "$50/Person",
+      "attire": "Business Casual",
+      "expenseLevel": "$$",
+      "category": "upscale",
+      "shortDescription": "For nearly a decade, Hamada of Japan has been a favorite Flamingo Las Vegas restaurant among those seeking authentic sushi and Japanese dishes.",
+      "cuisine": "Japanese",
+      "mainImageUrl": "/content/dam/flv/Dining/Casual/hamada-of-japan/Flamingo-Las-Vegas-Dining-Casual-Hamada-of-Japan-2.jpg",
+      "logoImageUrl": "/content/dam/clv/Room/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Daily ",
+        "time": "5:30pm-10:30pm"
+      }],
+      "hours": [      {
+        "day": "Daily",
+        "time": "5:00pm-10:30pm"
+      }]
+    },
+        {
+      "propCode": "ilv",
+      "name": "Hash House A Go Go",
+      "brand": "the_quad",
+      "phone": "(702) 254-4646",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "3",
+      "market": "lvm",
+      "learnMoreURL": "http://www.thequadlv.com/restaurants/hash-house-a-go-go.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "shortDescription": "&ldquo;Twisted Farm Food&rdquo; at breakfast, lunch and dinner make for meals that challenge your very imagination at this restaurant featured on Man V. Food. ",
+      "cuisine": "American",
+      "url": "http://www.hashhouseagogo.com/",
+      "mainImageUrl": "/content/dam/ilv/Dining/Casual/hash-house-a-go-go/Imperial-Palace-Dining-Casual-Hash-House-A-Go-Go-5.tif",
+      "logoImageUrl": "/content/dam/ilv/Dining/Casual/hash-house-a-go-go/Imperial-Palace-Dining-Casual-Hash-House-A-Go-Go-1.eps",
+      "hours": [      {
+        "day": "Sun - Sat",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "propCode": "las",
+      "name": "Ice Pan",
+      "brand": "harrahs",
+      "phone": "(702) 369-5000",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "7",
+      "learnMoreURL": "http://www.harrahslasvegas.com/restaurants/ice-pan.html",
+      "marketRank": "1",
+      "averageCheck": "$5/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "This Harrah&rsquo;s Las Vegas restaurant serves ice cream custom-made made from dairy and soy bases combined with your choice of flavorings and mix-ins.",
+      "cuisine": "Dessert",
+      "url": "http://www.icepanusa.com/index.html",
+      "mainImageUrl": "/content/dam/las/Dining/Quick Bites/Ice Pan/Harrah%27s-Las-Vegas-Dining-Quick-Bites-Ice-Pan-1.jpg",
+      "logoImageUrl": "/content/dam/las/Dining/Quick Bites/Ice Pan/Harrah%27s-Las-Vegas-Dining-Quick-Bites-Ice-Pan-1.jpg",
+      "facts": [      {
+        "day": "Daily",
+        "time": "11am-1am"
+      }],
+      "hours": [      {
+        "day": "Daily",
+        "time": "11am-1am"
+      }]
+    },
+        {
+      "propCode": "blv",
+      "name": "Ichiban Sushi",
+      "brand": "ballys",
+      "phone": "(702) 739-4111",
+      "averagecheck": "$15 to $25",
+      "market": "lvm",
+      "propertyRank": "2",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/ichiban-sushi.html",
+      "marketRank": "1",
+      "averageCheck": "$20/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "shortDescription": "This casual Las Vegas sushi restaurant at Bally&rsquo;s Las Vegas serves authentic sushi and popular Japanese dishes.",
+      "cuisine": "Japanese",
+      "mainImageUrl": "/content/dam/blv/Dining/Casual/Ichiban/Bally%27s-Las-Vegas-Dining-Casual-Ichiban-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11am-10:30pm"
+        },
+                {
+          "day": "Fri, Sat",
+          "time": "11am-11pm"
+        }
+      ],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11am-10:30pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "11am-11pm"
+        }
+      ]
+    },
+        {
+      "propCode": "cl1",
+      "name": "In Room Dining",
+      "brand": "nobu",
+      "propertyRank": "1",
+      "market": "lvm",
+      "learnMoreURL": "http://www.nobucaesarspalace.com/restaurants/in-room-dining.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/cl1/Dining/Upscale/In Room Dining/NOBU-Dining-Upscale-In-Room Dining-1.pdf",
+      "shortDescription": "Enjoy this exclusive menu, available only to guests of Nobu Hotel, created by Chef Nobu for your 24-hour in-room dining pleasure.",
+      "cuisine": "Japanese",
+      "mainImageUrl": "/content/dam/cl1/Dining/Upscale/In Room Dining/cl1-Dining-Upscale-In-Room Dining-1.jpg",
+      "logoImageUrl": "/content/dam/clv/Property/Exterior/Caesars-Las-Vegas-Property-Exterior-Hotel-1.jpg"
+    },
+        {
+      "propCode": "plv",
+      "name": "JJ's Boulangerie",
+      "brand": "paris",
+      "phone": "(702) 946-7000",
+      "averagecheck": "$10/Person",
+      "market": "lvm",
+      "propertyRank": "10",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/jjs-boulangerie.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "shortDescription": "JJ's Boulangerie is a Paris Las Vegas breakfast and sandwich caf&eacute; serving mouth-watering baguettes, sandwiches, salads and pizza.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/plv/Dining/Casual/jjs boulangerie/Paris-Las-Vegas-Dining-Casual-JJs-Boulangerie-2.jpg",
+      "logoImageUrl": "/content/dam/plv/Dining/Casual/jjs boulangerie/Paris-Las-Vegas-Dining-Casual-JJs-Boulangerie-2.jpg"
+    },
+        {
+      "rank": "1",
+      "propCode": "blv",
+      "name": "Java Coast",
+      "brand": "ballys",
+      "phone": "(702) 739-4111",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "10",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/java-coast.html",
+      "marketRank": "1",
+      "averageCheck": "$5/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "More than just coffee, Java Coast serves juices, fruit smoothies and assorted baked goods near the Bally&rsquo;s Las Vegas lobby.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/blv/Dining/Quick Bites/java-coast/Bally%27s-Las-Vegas-Dining-Quick-Bites-Java-Coast-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily ",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "propCode": "las",
+      "name": "KGB: Kerry's Gourmet Burgers",
+      "brand": "harrahs",
+      "phone": "702-369-5000&lt;/P&gt;&lt;h4 class=&quot;sub-col-highlight-title&quot;&gt;Group Reservations&lt;/h4&gt;&lt;p class=&quot;sub-col-highlight-text&quot;&gt;For groups of 12 or more, please call 866-733-5827",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "2",
+      "learnMoreURL": "http://www.harrahslasvegas.com/restaurants/kgb-kerrys-gourmet-burgers.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/las/Dining/Casual/KGB/KGB-menu-4-23.pdf",
+      "shortDescription": "Chef Kerry Simon&rsquo;s restaurant serves Las Vegas&rsquo; best burgers customized to your liking, along with signature snacks, sides and milkshakes.",
+      "cuisine": "American",
+      "chef": "Kerry Simon",
+      "mainImageUrl": "/content/dam/las/Dining/Casual/KGB/Harrah%27s-Las-Vegas-Dining-Casual-KGB-14.jpeg",
+      "logoImageUrl": "/content/dam/las/Dining/Casual/KGB/Harrah%27s-Las-Vegas-Dining-Casual-KGB-1.jpg",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11am-11PM"
+        },
+                {
+          "day": "Fri,Sat",
+          "time": "11am-12am"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Sun-Thur",
+          "time": "11am-11pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "11am-12am"
+        }
+      ]
+    },
+        {
+      "propCode": "rlv",
+      "name": "KJ Dim Sum &amp; Seafood",
+      "brand": "rio",
+      "phone": "(702) 731-7778",
+      "averagecheck": "$17",
+      "propertyRank": "5",
+      "market": "lvm",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/kj-dim-sum-and-seafood.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "shortDescription": "Rio Las Vegas Hotel and Casino guests can now enjoy a new dim sum menu and the signature tastes of favorite Las Vegas Chinese restaurant KJ Kitchen.",
+      "cuisine": "Chinese",
+      "mainImageUrl": "/content/dam/rlv/Dining/Casual/kj dim sum/Rio-All-Suite-Hotel-Dining-Casual-kj-dim-sum-2.jpg",
+      "logoImageUrl": "/content/dam/hlt/Room/Standard Room/Pet Stay Queen/Harvey%27s-Lake-Tahoe-Room-Standard-Room-Premium-King-1.jpg",
+      "facts": [      {
+        "day": "Daily",
+        "time": "10am-2pm"
+      }],
+      "hours": [      {
+        "day": "Daily",
+        "time": "10am to 2am"
+      }]
+    },
+        {
+      "propCode": "phv",
+      "name": "Koi",
+      "brand": "planet_hollywood",
+      "phone": "(702) 454-4555",
+      "averagecheck": "$25-$40",
+      "propertyRank": "3",
+      "market": "lvm",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/koi.html",
+      "marketRank": "1",
+      "averageCheck": "$40/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/phv/Dining/Upscale/koi/Koi_Menu.pdf",
+      "shortDescription": "This Las Vegas Japanese restaurant&rsquo;s trademark California accents have been imported from LA to Planet Hollywood Resort and Casino.",
+      "cuisine": "Japanese",
+      "url": "http://www.koirestaurant.com/las_vegas/galleries/1/",
+      "mainImageUrl": "/content/dam/phv/Dining/Upscale/koi/Planet-Hollywood-Resort-&-Casino-Dining-Upscale-Koi-5.jpg",
+      "logoImageUrl": "/content/dam/phv/Property/Logos/Planet-Hollywood-Resort-&-Casino-Property-Logos-9.png",
+      "hours":       [
+                {
+          "day": "Sun-Thu ",
+          "time": "5:30pm-10:30pm"
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "5:30pm-11:30pm"
+        }
+      ]
+    },
+        {
+      "rank": "1",
+      "propCode": "plv",
+      "name": "La Creperie",
+      "brand": "paris",
+      "phone": "(702) 946-7000",
+      "averagecheck": "$9",
+      "market": "lvm",
+      "propertyRank": "8",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/la-creperie.html",
+      "averageCheck": "$5/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "dinnerMenu": "/content/dam/plv/Dining/Quick Bites/la creperie/La Creparie Menu.pdf",
+      "shortDescription": "La Creperie is a Paris Las Vegas restaurant where you can walk up to a traditional bistro counter where delicate crepes are topped with sweet and savory ingredients.",
+      "cuisine": "French",
+      "logoImageUrl": "/content/dam/plv/Dining/Quick Bites/la creperie/Paris-Las-Vegas-Dining-Quick-Bites-La-Creperie-2.png",
+      "mainImageUrl": "/content/dam/plv/Dining/Quick Bites/la creperie/Paris-Las-Vegas-Dining-Quick-Bites-La-Creperie-1.jpeg",
+      "hours": [      {
+        "day": "Daily",
+        "time": "7am-11pm"
+      }]
+    },
+        {
+      "propCode": "plv",
+      "rank": "1",
+      "name": "Le Cafe Ile St. Louis",
+      "brand": "paris",
+      "phone": "(702) 946-7000",
+      "averagecheck": "$12",
+      "market": "lvm",
+      "propertyRank": "11",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/cafe-ile-st-louis.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/plv/Dining/Upscale/Le Caf&sbquo; Ile St Louis/Cafe Ile St Louis Dinner Menu.pdf",
+      "shortDescription": "Enjoy the sights, sounds and tastes of Paris sidewalks at Caf&eacute; Ile St. Louis, a bustling restaurant overlooking the Paris Las Vegas casino floor.",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/plv/Dining/Upscale/Le Caf? Ile St Louis/Paris-Las-Vegas-Dining-Upscale-Le-Caf?-Ile-St-Louis-11.jpg",
+      "logoImageUrl": "/content/dam/plv/Dining/Upscale/Le Caf? Ile St Louis/Paris-Las-Vegas-Dining-Upscale-Le-Caf?-Ile-St-Louis-1.png",
+      "hours":       [
+                {
+          "day": "Dining Daily",
+          "time": "6am-11pm"
+        },
+                {
+          "day": "Bar Daily",
+          "time": "24 Hours"
+        }
+      ]
+    },
+        {
+      "propCode": "plv",
+      "rank": "1",
+      "name": "Le Provencal",
+      "brand": "paris",
+      "phone": "(877) 346-4642",
+      "averagecheck": "$20",
+      "propertyRank": "6",
+      "market": "lvm",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/le-provencal.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/plv/Dining/Casual/Le Provencal/Le Provencal Menu.pdf",
+      "shortDescription": "Passion foods collide in a rustic Proven&ccedil;al countryside setting at this regional French restaurant at Paris Las Vegas with Italian influences.",
+      "cuisine": "French-Italian",
+      "mainImageUrl": "/content/dam/plv/Dining/Casual/Le Provencal/Paris-Las-Vegas-Dining-Casual-Le-Provencal-1.jpeg",
+      "logoImageUrl": "/content/dam/plv/Dining/Casual/Le Provencal/Paris-Las-Vegas-Dining-Casual-Le-Provencal-1.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "5:00pm-10:30pm"
+      }]
+    },
+        {
+      "propCode": "plv",
+      "rank": "1",
+      "name": "Le Village Buffet at Paris Las Vegas",
+      "brand": "paris",
+      "phone": "(702) 946-7000",
+      "averagecheck": "$25 to $40",
+      "propertyRank": "100",
+      "market": "lvm",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/le-village-buffet.html",
+      "marketRank": "1",
+      "averageCheck": "$20/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$$",
+      "category": "buffet",
+      "shortDescription": "The five regions of France are represented at this Las Vegas buffet by live-action stations and cottage dining rooms.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/plv/Dining/Buffet/le village buffet/Paris-Las-Vegas-Dining-Buffet-Le-Village-Buffet-1.jpeg",
+      "logoImageUrl": "/content/dam/plv/Dining/Buffet/le village buffet/Paris-Las-Vegas-Dining-Buffet-Le-Village-Buffet-1.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "7am-10pm"
+      }]
+    },
+        {
+      "propCode": "flv",
+      "name": "Margaritaville",
+      "brand": "flamingo",
+      "phone": "(702) 733-3302",
+      "averagecheck": "$20",
+      "propertyRank": "5",
+      "market": "lvm",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/margaritaville.html",
+      "averageCheck": "$20/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/flv/Dining/Casual/margaritaville/Margaritaville Main Menu.pdf",
+      "shortDescription": "Look for your lost shaker of salt over a Cheeseburger in Paradise and dive into the signature Volcano Nachos at Jimmy Buffett&rsquo;s Margaritaville restaurant at Flamingo Las Vegas.",
+      "cuisine": "Cafe/Variety",
+      "url": "http://www.margaritavillelasvegas.com/restaurant.html",
+      "mainImageUrl": "/content/dam/flv/Dining/Casual/margaritaville/Flamingo-Las-Vegas-Dining-Casual-Margaritaville-1.jpg",
+      "logoImageUrl": "/content/dam/flv/Shows/Legends/Harrah%27s-Las-Vegas-Shows-Legends-1.jpg",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "8am-2am"
+        },
+                {
+          "day": "Fri, Sat",
+          "time": "8am-3am"
+        }
+      ],
+      "whitelogo": "/content/dam/flv/Logos/Flamingo-Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Sun-Thur",
+          "time": "8am-2am"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "8am-3am"
+        }
+      ]
+    },
+        {
+      "propCode": "rlv",
+      "name": "Martorano's",
+      "brand": "rio",
+      "phone": "(702) 777-7740",
+      "averagecheck": "$27",
+      "propertyRank": "2",
+      "market": "lvm",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/martoranos.html",
+      "averageCheck": "$40/Person",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/rlv/Dining/Upscale/cafe martorano/Martoranos Menu.pdf",
+      "shortDescription": "Italian-American chef Steve Martorano serves up beats and bites at this high-energy Las Vegas Italian restaurant at Rio All-Suite Hotel and Casino.",
+      "cuisine": "Italian",
+      "chef": "Steve Martorano",
+      "mainImageUrl": "/content/dam/rlv/Dining/Upscale/cafe martorano/Rio-All-Suite-Hotel-Dining-Upscale-cafe-martoranos-2.jpeg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Upscale/cafe martorano/Rio-All-Suite-Hotel-&-Casino-Dining-Upscale-Caf?-Martorano-2.jpg",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "5:30pm - 10pm"
+        },
+                {
+          "day": "Sat",
+          "time": "5:30pm-10:30pm"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Sun-Thu ",
+          "time": "5:30pm-10pm   "
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "5:30pm-10:30pm"
+        }
+      ]
+    },
+        {
+      "rank": "1",
+      "propCode": "plv",
+      "name": "Martorano's",
+      "brand": "paris",
+      "market": "lvm",
+      "propertyRank": "3",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/martorano.html",
+      "marketRank": "19",
+      "averageCheck": "$25/Person",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "casual",
+      "shortDescription": "It&rsquo;s Official! Steve Martorano is partnering with Paris Las Vegas to bring his restaurant to the Las Vegas Strip. ",
+      "cuisine": "Italian",
+      "mainImageUrl": "/content/dam/plv/Dining/Upscale/Martoranos/Paris-Las Vegas-Dining-Upscale-Martoranos-1.jpg",
+      "logoImageUrl": "/content/dam/plv/Dining/Casual/mon ami gabi/Paris-Las-Vegas-Dining-Casual-Mon-Ami-Gabi-1.png"
+    },
+        {
+      "propCode": "clv",
+      "name": "Mesa Grill",
+      "brand": "caesars",
+      "phone": "702-731-7731",
+      "averagecheck": "$36 - $52",
+      "market": "lvm",
+      "propertyRank": "9",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/mesa-grill.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/clv/Dining/Upscale/mesa-grill/Mesa-Dinner-Jun-2013.pdf",
+      "shortDescription": "Brought to Caesars Palace Las Vegas by celebrity chef Bobby Flay, Mesa Grill Southwestern Restaurant features bold flavors and specialty margaritas.",
+      "cuisine": "Contemporary Southwestern",
+      "url": "http://www.mesagrill.com/las-vegas-restaurant/",
+      "chef": "Bobby Flay",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/Caesars-Las-Vegas-Dining-Upscale-Mesa-Grill-3.jpg",
+      "logoImageUrl": "/content/dam/clv/Dining/Upscale/Mesa Grill/Caesars-Las-Vegas-Dining-Upscale-Mesa-Grill-1.jpg",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Lunch Mon-Fri",
+          "time": "11am-2:30pm"
+        },
+                {
+          "day": "Brunch Sat &amp; Sun",
+          "time": "10:30am-3pm"
+        },
+                {
+          "day": "Dinner Daily",
+          "time": "5pm-11pm"
+        }
+      ]
+    },
+        {
+      "propCode": "las",
+      "name": "Ming's Table",
+      "brand": "harrahs",
+      "phone": "(702) 369-5000",
+      "averagecheck": "$15 to $25",
+      "market": "lvm",
+      "propertyRank": "6",
+      "learnMoreURL": "http://www.harrahslasvegas.com/restaurants/mings-table.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/las/Dining/Casual/Mings Menu.pdf",
+      "shortDescription": "Your Ming&rsquo;s Table dinner is prepared fresh to order and served in this Las Vegas Chinese restaurant&rsquo;s colorful, contemporary atmosphere.",
+      "cuisine": "Asian Fusion",
+      "mainImageUrl": "/content/dam/las/Dining/Casual/Ming%27s Table/Harrah%27s-Las-Vegas-Dining-Casual-Ming%27s-Table-4.jpg",
+      "logoImageUrl": "/content/dam/las/Property/Logos/Harrahs-Las Vegas-Property-Logos-1.png",
+      "facts":       [
+                {
+          "day": "Mon-Fri",
+          "time": "4pm-10:30Pm"
+        },
+                {
+          "day": "Sat,Sun",
+          "time": "11:30am-10:30Pm"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Mon-Fri",
+          "time": "5pm-11pm"
+        },
+                {
+          "day": "Sat &amp; Sun",
+          "time": "11:30am-11pm"
+        }
+      ]
+    },
+        {
+      "propCode": "plv",
+      "rank": "1",
+      "name": "Mon Ami Gabi",
+      "brand": "paris",
+      "phone": "(702) 944-4224",
+      "averagecheck": "$25 to $40",
+      "market": "lvm",
+      "propertyRank": "3",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/mon-ami-gabi.html",
+      "marketRank": "19",
+      "averageCheck": "$25/Person",
+      "isFeatured": "true",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "casual",
+      "shortDescription": "Al fresco dining on the Las Vegas Strip, Mon Ami Gabi offers an extensive wine list and classic steak frites and fruits de mer at this Las Vegas restaurant.",
+      "cuisine": "French",
+      "mainImageUrl": "/content/dam/plv/Dining/Casual/mon ami gabi/Paris-Las-Vegas-Dining-Casual-Mon-Ami-Gabi-3.jpg",
+      "logoImageUrl": "/content/dam/plv/Dining/Casual/mon ami gabi/Paris-Las-Vegas-Dining-Casual-Mon-Ami-Gabi-1.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "7am-11pm"
+      }]
+    },
+        {
+      "propCode": "clv",
+      "name": "Munchbar",
+      "brand": "caesars",
+      "phone": "888-686-8624",
+      "averagecheck": "$15 to $25",
+      "market": "lvm",
+      "propertyRank": "14",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/munchbar.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/clv/Dining/Casual/Munchbar/Munchbar Menu.pdf",
+      "shortDescription": "Come take a break at Munchbar, a Las Vegas restaurant and pub where you can find all your favorite comfort foods on a menu created by renowned Chef Bryan Ogden.",
+      "cuisine": "American",
+      "url": "http://www.munchgroup.com/vegas/",
+      "chef": "Bryan Ogden",
+      "mainImageUrl": "/content/dam/clv/Dining/Casual/Munchbar/Caesars-Las-Vegas-Dining-Casual-Munchbar-1.jpg",
+      "logoImageUrl": "/content/dam/clv/Dining/Casual/Munchbar/Caesars-Las-Vegas-Dining-Casual-Munchbar-3.jpg",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Sun &amp; Mon, Wed &amp; Thu",
+          "time": "11am-2am"
+        },
+                {
+          "day": "Tue, Fri &amp; Sat",
+          "time": "11am-4am "
+        }
+      ]
+    },
+        {
+      "propCode": "clv",
+      "name": "NOBU",
+      "brand": "caesars",
+      "phone": "1-702-785-6628",
+      "averagecheck": "$40+",
+      "market": "lvm",
+      "propertyRank": "3",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/nobu.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/clv/Dining/Upscale/Nobu/Nobu-Dinner-menus-1.pdf",
+      "shortDescription": "The ideal destination to be seen, socialize, and enjoy the unique cuisine of celebrated Chef Nobu Matsuhisa.",
+      "cuisine": "Japanese",
+      "url": "/content/property/nobu/index/restaurants/nobu",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/Nobu/Caesars-Las-Vegas-Dining-Upscale-Nobu-1.jpg",
+      "logoImageUrl": "/content/dam/clv/Property/Exterior/Caesars-Las-Vegas-Property-Exterior-Hotel-1.jpg",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Lunch",
+          "time": " "
+        },
+                {
+          "day": "Sat-Sun",
+          "time": "11am-3pm"
+        },
+                {
+          "day": "Dinner",
+          "time": " "
+        },
+                {
+          "day": "Sun-Thru",
+          "time": "5pm-11pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "5pm-12am"
+        },
+                {
+          "day": "Lounge",
+          "time": " "
+        },
+                {
+          "day": "Sun-Thu",
+          "time": "5pm-1am"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "5pm-2am"
+        }
+      ]
+    },
+        {
+      "propCode": "cl1",
+      "name": "NOBU",
+      "brand": "nobu",
+      "phone": "1-702-785-6628",
+      "averagecheck": "$40+",
+      "market": "lvm",
+      "propertyRank": "3",
+      "learnMoreURL": "http://www.nobucaesarspalace.com/restaurants/nobu.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/nobu/Dining/Menus/Nobu-Dining-Menus-Yaki.pdf",
+      "shortDescription": "Is the ideal destination to be seen, socialize, and enjoy the unique cuisine of celebrated Chef Nobu Matsuhisa.",
+      "cuisine": "Japanese",
+      "url": "/content/property/CaesarsPalace/index/restaurants/nobu",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/Nobu/Caesars-Las-Vegas-Dining-Upscale-Nobu-1.jpg",
+      "logoImageUrl": "/content/dam/cl1/Logos/cl1-Logos-2.png",
+      "hours":       [
+                {
+          "day": "Lunch",
+          "time": " "
+        },
+                {
+          "day": "Sat-Sun",
+          "time": "11am-3pm"
+        },
+                {
+          "day": "Dinner",
+          "time": " "
+        },
+                {
+          "day": "Sun-Thru",
+          "time": "5pm-11pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "5pm-12am"
+        },
+                {
+          "day": "Lounge",
+          "time": " "
+        },
+                {
+          "day": "Sun-Thu",
+          "time": "5pm-1am"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "5pm-2am"
+        }
+      ]
+    },
+        {
+      "propCode": "cl1",
+      "name": "NOBU Lounge",
+      "brand": "nobu",
+      "phone": "1-702-785-6628",
+      "propertyRank": "3",
+      "market": "lvm",
+      "learnMoreURL": "http://www.nobucaesarspalace.com/restaurants/nobu-lounge.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$$",
+      "category": "upscale",
+      "dinnerMenu": "#&quot; style=&quot;position:absolute; left:-9999px;&quot;&gt;&lt;/a&gt;&lt;a href=&quot;/content/dam/cl1/Dining/Upscale/NOBU Lounge/cl1-Dining-Upscale-NOBU-Lounge-1.pdf&quot; target=&quot;_blank&quot; class=&quot;menu-link&quot; onclick=&quot;window.open('/content/dam/cl1/Dining/Upscale/NOBU Lounge/cl1-Dining-Upscale-NOBU-Lounge-1.pdf','','scrollbars=no, toolbar=no, status=no, menubar=no, resizable=no, location=no, ');&quot;&gt;See Lounge Menu&lt;/a&gt;&lt;a style=&quot;position:absolute; left:-9999px;&quot; href=&quot;#",
+      "shortDescription": "Take a break from your room and enjoy all of Nobu.",
+      "cuisine": "Japanese",
+      "mainImageUrl": "/content/dam/cl1/Dining/Upscale/NOBU Lounge/cl1-Dining-Upscale-NOBU-Lounge-1.jpg",
+      "logoImageUrl": "/content/dam/cl1/Logos/cl1-Logos-2.png"
+    },
+        {
+      "propCode": "blv",
+      "name": "Nathan's Famous",
+      "brand": "ballys",
+      "phone": "(702) 739-4111",
+      "averagecheck": "$5/Person",
+      "propertyRank": "12",
+      "market": "lvm",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/nathans-famous.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "A taste of Coney Island - classic hot dogs topped with sauerkraut and mustard or chili and cheese at this quick Las Vegas restaurant near the Bally&rsquo;s Las Vegas Race &amp; Sports Book.",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/blv/Dining/Quick Bites/Nathan%27s/Bally%27s-Las-Vegas-Dining-Quick-Bites-Nathan%27s-2.jpg",
+      "logoImageUrl": "/content/dam/blv/Dining/Quick Bites/Nathan%27s/Bally%27s-Las-Vegas-Dining-Quick-Bites-Nathan%27s-2.jpg",
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png"
+    },
+        {
+      "rank": "1",
+      "propCode": "blv",
+      "name": "Nosh",
+      "brand": "ballys",
+      "phone": "(702) 739-4111",
+      "averagecheck": "$8",
+      "market": "lvm",
+      "propertyRank": "7",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/Nosh.html",
+      "marketRank": "1",
+      "averageCheck": "$5/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Nosh serves bagel and croissant breakfast sandwiches along with made-to-order sandwiches, hot dogs and fresh desserts.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/blv/Dining/Quick Bites/nosh/Bally%27s-Las-Vegas-Dining-Quick-Bites-Nosh-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Daily",
+        "time": "7am-1am"
+      }],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily ",
+        "time": "24 hours"
+      }]
+    },
+        {
+      "propCode": "clv",
+      "name": "Old Homestead Steakhouse",
+      "brand": "caesars",
+      "phone": "(702)731-7558",
+      "averagecheck": "$40+",
+      "propertyRank": "6",
+      "market": "lvm",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/old-homestead.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/clv/Dining/Upscale/Old Homestead/Old_Homestead_Dinner_Menu_July_2013.pdf",
+      "shortDescription": "Old Homestead Steakhouse at Caesars Palace offers fine dining in a Las Vegas restaurant inspired by the original Old Homestead, one of NYC&rsquo;s most historic restaurants.",
+      "cuisine": "Steakhouse",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/Old Homestead/Caesars-Palace Las Vegas-Dining-Upscale-Old-Homestead-1.jpg",
+      "logoImageUrl": "/content/dam/clv/Dining/Upscale/Old Homestead/Caesars-Las-Vegas-Dining-Upscale-Old-Homestead-2.jpg",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Sun-Thu",
+          "time": "4:45pm-10:30pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "4:45pm-11pm"
+        }
+      ]
+    },
+        {
+      "propCode": "las",
+      "name": "Oyster Bar",
+      "brand": "harrahs",
+      "phone": "(702) 369-5000",
+      "averagecheck": "$25 to $40",
+      "market": "lvm",
+      "propertyRank": "5",
+      "learnMoreURL": "http://www.harrahslasvegas.com/restaurants/oyster-bar.html",
+      "marketRank": "1",
+      "averageCheck": "$20/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/las/Dining/Casual/Oyster%20Bar/Oyster-Bar-Menu-0813.pdf",
+      "shortDescription": "Belly up to the Oyster Bar at Harrah&rsquo;s and reel in oysters, fresh caught fish, clam chowder, scallops and more at this longtime Las Vegas seafood favorite.",
+      "cuisine": "Seafood",
+      "mainImageUrl": "/content/dam/las/Dining/Casual/Oyster Bar/Harrah%27s-Las-Vegas-Dining-Casual-Oyster-Bar-3.jpg",
+      "logoImageUrl": "/content/dam/las/Logos/Harrahs-Las Vegas-Logos-1.png",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "1:30am-11pm"
+        },
+                {
+          "day": "Sat,Sun",
+          "time": "11:30am-1am"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11:30am-11pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "11:30am-1am"
+        }
+      ]
+    },
+        {
+      "propCode": "phv",
+      "name": "P.F. Chang's",
+      "brand": "planet_hollywood",
+      "phone": "(702) 836-0955",
+      "averagecheck": "$15 to $25",
+      "market": "lvm",
+      "propertyRank": "7",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/pf-changs.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/phv/Dining/Upscale/pf changs/PFChangs Menu.pdf",
+      "shortDescription": "Enjoy fresh, contemporary Chinese cuisine in P.F. Chang&rsquo;s stylish, high-energy bistro environment in a Las Vegas restaurant at Planet Hollywood.",
+      "cuisine": "Chinese",
+      "url": "http://www.pfchangs.com/index.aspx",
+      "mainImageUrl": "/content/dam/phv/Dining/Upscale/pf changs/Planet-Hollywood-Resort-&-Casino-Dining-Upscale-PF-Chang%27s-2.jpg",
+      "logoImageUrl": "/content/dam/phv/Property/Logos/Planet-Hollywood-Resort-&-Casino-Property-Logos-9.png",
+      "hours":       [
+                {
+          "day": "Sun-Thu ",
+          "time": "11am-12am"
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "11am-1am"
+        }
+      ]
+    },
+        {
+      "propCode": "flv",
+      "name": "Paradise Garden Buffet",
+      "brand": "flamingo",
+      "phone": "(702) 784-8821",
+      "averagecheck": "$17.99 - $28.99&lt;br&gt;(w/ Total Rewards card)",
+      "market": "lvm",
+      "propertyRank": "4",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/paradise-garden-buffet.html",
+      "marketRank": "1",
+      "averageCheck": "$20-25/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "buffet",
+      "shortDescription": "At Paradise Garden Las Vegas Buffet at, you can feast on cuisines from around the world while watching the wildlife in the Flamingo Las Vegas Hotel and Casino&rsquo;s habitat.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/flv/Dining/Buffet/paradise-garden-buffet/Flamingo-Las-Vegas-Dining-Buffet-Paradise-Garden-Buffet-4.jpg",
+      "logoImageUrl": "/content/dam/blv/Dining/Quick Bites/Nathan%27s/Bally%27s-Las-Vegas-Dining-Quick-Bites-Nathan%27s-2.jpg",
+      "facts":       [
+                {
+          "day": "Mon-Fri Breakfast",
+          "time": "7am-11am"
+        },
+                {
+          "day": "Sat, Sun Brunch",
+          "time": "7am-3pm"
+        },
+                {
+          "day": "Daily Lunch",
+          "time": "11am-3pm"
+        },
+                {
+          "day": "Daily Dinner",
+          "time": "4pm-10pm"
+        }
+      ],
+      "whitelogo": "/content/dam/flv/Logos/Flamingo-Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Open Daily",
+          "time": "7am-10pm"
+        },
+        [],
+        [],
+        []
+      ]
+    },
+        {
+      "propCode": "clv",
+      "name": "Payard Patisserie &amp; Bistro",
+      "brand": "caesars",
+      "phone": "702-731-7292",
+      "averagecheck": "$25 to $40",
+      "propertyRank": "7",
+      "market": "lvm",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/payard-pastisserie.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/clv/Dining/Upscale/payard-patisserie/Caesars-Palace Night Menu.pdf",
+      "shortDescription": "The Payard Patisserie &amp; Bistro  at Caesars Palace, unique among Las Vegas restaurants, contains an upscale bistro as well as a chocolate and pastry shop.",
+      "cuisine": "French",
+      "url": "http://www.payard.com/",
+      "chef": "Francois Payard",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/payard-patisserie/Caesars-Palace Las Vegas-Dining-Upscale-payard-patisserie-1.jpg",
+      "logoImageUrl": "/content/dam/clv/Dining/Upscale/Payard Patisserie/Caesars-Las-Vegas-Dining-Upscale-Payard-Patisserie-3.jpg",
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Breakfast Daily",
+          "time": "6:30am - 11:30am"
+        },
+                {
+          "day": "Lunch Daily",
+          "time": "11:30am - 2:30pm"
+        },
+                {
+          "day": "Dinner Wed - Sun",
+          "time": "5pm - 10pm"
+        },
+                {
+          "day": "Pastry Counter Daily ",
+          "time": "6:00am - 11pm"
+        }
+      ]
+    },
+        {
+      "propCode": "rlv",
+      "name": "Pho Da Nang Vietnamese Kitchen",
+      "brand": "rio",
+      "averagecheck": "$11.95",
+      "market": "lvm",
+      "propertyRank": "10",
+      "learnMoreURL": "/content/property/rio-all-suite-hotel-and-casino/index/restaurants/pho-da-nang",
+      "marketRank": "1",
+      "averageCheck": "$5/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/rlv/Dining/Casual/pho da nang/Rio-All-Suites Hotel &amp; Casino-Dining-Casual-pho-da nang-1.pdf",
+      "shortDescription": "Pho Da Nang Vietnamese Kitchen is now open at Rio All-Suite Hotel &amp; Casino. The new Rio Las Vegas restaurant provides guests fresh selections of authentic Vietnamese cuisine.",
+      "mainImageUrl": "/content/dam/rlv/Dining/Casual/pho da nang/Rio-All-Suites Hotel & Casino-Dining-Casual-Pho-Da-Dang-1.jpg",
+      "logoImageUrl": "/content/dam/rlv/Logos/Rio-All-Suites Hotel & Casino-Logos-1.png",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11am-1pm"
+        },
+                {
+          "day": "Fri,Sat",
+          "time": "11am-1am"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Sun-Thu ",
+          "time": "11am-11pm"
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "11am-1am"
+        }
+      ]
+    },
+        {
+      "propCode": "phv",
+      "name": "Pink's Hot Dogs",
+      "brand": "planet_hollywood",
+      "phone": "(702) 405-4711",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "8",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/pinks-hot-dogs.html",
+      "averageCheck": "$7/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "dinnerMenu": "/content/dam/phv/Dining/Casual/pinks/Pinks Menu.pdf",
+      "shortDescription": "Experience a taste of the iconic Hollywood landmark Pink&rsquo;s Hot Dogs right on the Las Vegas Strip, without the notorious lines of the original!",
+      "cuisine": "American",
+      "url": "http://www.pinkshollywood.com/",
+      "mainImageUrl": "/content/dam/phv/Dining/Casual/pinks/Planet-Hollywood-Resort-Dining-Casual-Pinks-1.jpg",
+      "logoImageUrl": "/content/dam/phv/Property/Logos/Planet-Hollywood-Resort-&-Casino-Property-Logos-9.png",
+      "hours":       [
+                {
+          "day": "Sun-Thu ",
+          "time": "10:30am-12am"
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "10:30am-3am"
+        }
+      ]
+    },
+        {
+      "propCode": "phv",
+      "name": "Planet Dailies",
+      "brand": "planet_hollywood",
+      "phone": "(702) 731-7778",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "6",
+      "market": "lvm",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/planet-dalies.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/phv/Dining/Casual/planet dailies/Planet-Hollywood Resort &amp; Casino-Dining-Casual-planet-dailies-1.pdf",
+      "shortDescription": "Planet Dailies is Planet Hollywood&rsquo;s ever-changing Las Vegas coffee shop and caf&eacute;, where you can enjoy innovative bites in a technology-forward dining room.",
+      "cuisine": "Cafe/Variety",
+      "url": "http://www.planetdailies.com",
+      "mainImageUrl": "/content/dam/phv/Dining/Casual/planet dailies/Planet-Hollywood-Resort-&-Casino-Dining-Casual-Planet-Dailies-1.jpg",
+      "logoImageUrl": "/content/dam/phv/Property/Logos/Planet-Hollywood-Resort-&-Casino-Property-Logos-9.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "Open 24 Hours"
+      }]
+    },
+        {
+      "propCode": "flv",
+      "name": "Promenade Food Court",
+      "brand": "flamingo",
+      "phone": "(702) 733-3333",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "2",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/promenade-food-court.html",
+      "marketRank": "1",
+      "averageCheck": "$5/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Take your rumbling stomach to the food court on Flamingo Las Vegas Hotel and Casino&rsquo;s promenade for snacks from TCBY, Mrs. Fields or Java Detour.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/generic/Dining/Global-Dining-1.jpg",
+      "logoImageUrl": "/content/dam/generic/Dining/Global-Dining-6.jpg",
+      "facts": [      {
+        "day": "Daily",
+        "time": "7am-10pm"
+      }],
+      "hours": [      {
+        "day": "Daily",
+        "time": "7am-10pm"
+      }]
+    },
+        {
+      "propCode": "ilv",
+      "name": "Quesadilla",
+      "brand": "the_quad",
+      "phone": "(702) 731-3311",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "5",
+      "learnMoreURL": "http://www.thequadlv.com/restaurants/quesadilla.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/ilv/Dining/Casual/quesadilla/Quesadilla Menu.pdf",
+      "shortDescription": "Mexican comfort food and margaritas are made to order at this affordable Las Vegas restaurant on the fifth floor of The Quad Resort &amp; Casino.",
+      "cuisine": "Mexican/Southwestern",
+      "mainImageUrl": "/content/dam/ilv/Dining/Casual/quesadilla/The-Quad-Dining-Casual-Quesadilla-2.jpg",
+      "logoImageUrl": "/content/dam/ilv/Dining/Casual/quesadilla/The-Quad-Dining-Casual-Quesadilla-1.png",
+      "hours":       [
+                {
+          "day": "Fri-Tue",
+          "time": "4pm-10pm"
+        },
+                {
+          "day": "Wed &amp; Thu",
+          "time": "Closed"
+        }
+      ]
+    },
+        {
+      "propCode": "clv",
+      "propertyname": "Caesars Palace",
+      "name": "Rao's",
+      "brand": "caesars",
+      "phone": "(702) 731-7267",
+      "averagecheck": "$25 to $40",
+      "market": "lvm",
+      "propertyRank": "2",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/raos.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/clv/Dining/Upscale/Raos/Caesars-Palace Las Vegas-Raos-Dinner-Menu-Spring-13.pdf",
+      "shortDescription": "Come experience simple, honest, home cooking at Rao&rsquo;s at Caesars Palace, voted one of the best Italian restaurants in Las Vegas.",
+      "cuisine": "Italian",
+      "url": "http://www.raos.com/raos-restaurant-las-vegas.aspx",
+      "chef": "Frank Pellegrino Sr., Frank Pellegrino Jr., Ron Straci, and Nicole Grimes",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/Raos/Caesars-Palace Las Vegas-Dining-Upscale-Raos-1.jpg",
+      "logoImageUrl": "/content/dam/clv/Property/Exterior/Caesars-Las-Vegas-Property-Exterior-Hotel-1.jpg",
+      "facts":       [
+                {
+          "day": "Lunch Wed - Sun",
+          "time": "11am - 3pm"
+        },
+                {
+          "day": "Dinner Daily",
+          "time": "5pm - 10:30pm"
+        }
+      ],
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Dinner",
+        "time": "5pm-10:30pm Nightly"
+      }]
+    },
+        {
+      "propCode": "clv",
+      "name": "Restaurant Guy Savoy",
+      "brand": "caesars",
+      "phone": "(702)731-7286&lt;br&gt;or&lt;br&gt;Email Us Anytime&lt;br&gt;&lt;a href=&quot;mailto:guysavoy@caesars.com&quot;&gt;guysavoy@caesars.com&lt;/a&gt;",
+      "averagecheck": "$40+",
+      "market": "lvm",
+      "propertyRank": "100",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/guy-savoy.html",
+      "marketRank": "1",
+      "isFeatured": "true",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/clv/Dining/Upscale/Guy Savoy/Caesars-Palace-Dining-Upscale-Guy-Savoy-Signature_Summer_2013.pdf",
+      "shortDescription": "Restaurant Guy Savoy at Caesars Palace has been called the best restaurant in Las Vegas, serving elegant French Cuisine in a fine dining environment.\n",
+      "cuisine": "French",
+      "url": "http://www.guysavoy.com/",
+      "chef": "Mathieu Chartron",
+      "mainImageUrl": "/content/dam/clv/Dining/Upscale/Caesars-Las-Vegas-Dining-Upscale-Guy-Savoy-4.jpg",
+      "logoImageUrl": "/content/dam/clv/Property/Logos/Caesars-Las-Vegas-Property-Logos-9.png",
+      "facts": [      {
+        "day": "Wed - Sun",
+        "time": "5:30pm - 9:30pm"
+      }],
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Wed-Sun",
+          "time": "5:30 until 9:30pm"
+        },
+                {
+          "day": "Mon &amp; Tue",
+          "time": "Closed"
+        }
+      ]
+    },
+        {
+      "propCode": "rlv",
+      "name": "Royal India Bistro",
+      "brand": "rio",
+      "phone": "(702) 777-2277",
+      "averagecheck": "$27",
+      "propertyRank": "1",
+      "market": "lvm",
+      "learnMoreURL": "/content/property/rio-all-suite-hotel-and-casino/index/restaurants/royal-india-bistro",
+      "marketRank": "1",
+      "attire": "Casual",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/rlv/Dining/Casual/royal india bistro/Rio-All-Suites Hotel &amp; Casino-Dining-Casual-Royal_India_Bistro_Menu.pdf",
+      "shortDescription": "Spice up your dining experience with authentic North Indian cuisine at the Royal India Bistro at Rio Las Vegas.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/rlv/Dining/Casual/royal india bistro/Rio-All-Suites Hotel & Casino-Dining-Casual-Royal-India-Bistro.jpg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Casual/royal india bistro/Rio-All-Suites Hotel & Casino-Dining-Casual-Royal-India-Bistro.jpg",
+      "hours":       [
+                {
+          "day": "Open Daily",
+          "time": " "
+        },
+                {
+          "day": "Lunch Buffet",
+          "time": "11am - 3pm"
+        },
+                {
+          "day": "Happy Hour",
+          "time": "3pm - 5pm"
+        },
+                {
+          "day": "Dinner",
+          "time": "5pm - 10:30pm"
+        }
+      ]
+    },
+        {
+      "propCode": "las",
+      "name": "Ruth's Chris Steak House",
+      "brand": "harrahs",
+      "phone": "(877) 346-4642",
+      "market": "lvm",
+      "propertyRank": "1",
+      "learnMoreURL": "http://www.harrahslasvegas.com/restaurants/ruths-chris-steakhouse.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/las/Dining/Upscale/Ruths Chris Steakhouse/Harrahs-Las Vegas-Dining-Upscale-Ruths-Chris-Dinner-1.pdf",
+      "shortDescription": "Steakhouse restaurant serving the best prime steak, that's sizzling hot.",
+      "cuisine": "Steakhouse",
+      "url": "http://www.ruthschris.com/",
+      "mainImageUrl": "/content/dam/las/Dining/Upscale/Ruths Chris Steakhouse/Harrah%27s-Las-Vegas-Dining-Upscale-Ruth%27s-Chris-Steakhouse-2.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11am-11PM"
+        },
+                {
+          "day": "Fri,Sat",
+          "time": "11am-12am"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Daily",
+          "time": "5pm-10:30pm"
+        },
+        []
+      ]
+    },
+        {
+      "propCode": "blv",
+      "name": "SEA: The Thai Experience",
+      "brand": "ballys",
+      "phone": "(702) 967-3888",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "6",
+      "market": "lvm",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/sea-the-thai-experience.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/blv/Dining/Casual/sea/SEA The Thai Experience Menu.pdf",
+      "shortDescription": "Las Vegas diners can savor the exotic flavors of Thailand and Vietnam late into the night in a Bally&rsquo;s restaurant with sleek, Bangkok-inspired modern design.",
+      "cuisine": "Asian Fusion",
+      "mainImageUrl": "/content/dam/blv/Dining/Generic F&B/Bally%27s-Las-Vegas-Dining-Generic-F&B-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Daily",
+        "time": "11am-2am"
+      }],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily ",
+        "time": "11am-2am"
+      }]
+    },
+        {
+      "propCode": "blv",
+      "name": "Sbarro",
+      "brand": "ballys",
+      "phone": "(702) 739-4111",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "9",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/sbarro.html",
+      "marketRank": "1",
+      "averageCheck": "$5/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Quick bites like New York style or stuffed pizza slices and your favorite Italian dishes are served at this Las Vegas restaurant across from the Bally&rsquo;s Las Vegas Race &amp; Sports Book.",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/blv/Dining/Quick Bites/sbarros/Bally%27s-Las-Vegas-Dining-Quick-Bites-Sbarro%27s-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts":       [
+                {
+          "day": "Mon-Thu",
+          "time": "10am-10pm"
+        },
+                {
+          "day": "Fri-Sun",
+          "time": "10am-11pm"
+        }
+      ],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Mon-Thu",
+          "time": "10am-10pm"
+        },
+                {
+          "day": "Fri-Sun",
+          "time": "10am-11pm"
+        }
+      ]
+    },
+        {
+      "propCode": "clv",
+      "name": "Serendipity 3",
+      "brand": "caesars",
+      "phone": "(877) 346-4642",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "8",
+      "market": "lvm",
+      "learnMoreURL": "http://www.caesarspalace.com/restaurants/serendipity-3.html",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/clv/Dining/Casual/Serendipity/Serendipity-Menu-LV-2013-2.pdf",
+      "shortDescription": "Serendipity 3, one of the great Las Vegas restaurants at Caesars Palace, serves fun and whimsical entrees and delectable desserts.",
+      "cuisine": "American",
+      "url": "http://www.serendipity3.com/",
+      "chef": "Michael Wolf",
+      "mainImageUrl": "/content/dam/clv/Dining/Casual/Serendipity/Caesars-Las-Vegas-Dining-Casual-Serendipity-2.jpg",
+      "logoImageUrl": "/content/dam/clv/Property/Exterior/Caesars-Las-Vegas-Property-Exterior-Hotel-1.jpg",
+      "facts":       [
+                {
+          "day": "Sun - Thu",
+          "time": "8am - 11pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "8am - 12am"
+        }
+      ],
+      "whitelogo": "/content/dam/clv/Logos/Caesars-Palace Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Sun-Thu",
+          "time": "8am-11pm"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "8am-12am"
+        },
+                {
+          "day": "Brunch Sat &amp; Sun",
+          "time": "10am-2pm"
+        }
+      ]
+    },
+        {
+      "propCode": "blv",
+      "name": "Sidewalk Caf&eacute;",
+      "brand": "ballys",
+      "phone": "(702) 862-5138",
+      "averagecheck": "$12",
+      "market": "lvm",
+      "propertyRank": "4",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/sidewalk-cafe.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/blv/Dining/Casual/sidewalk-cafe/Ballys-Las Vegas-Dining-Casual-Sidewalk-Cafe-Menu.pdf",
+      "shortDescription": "Enjoy breakfast and lunch at this casual caf&eacute;, or opt for the Express Breakfast buffet. The Sidewalk Caf&eacute; at Bally&rsquo;s Las Vegas serves classic breakfast favorites.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/blv/Dining/Casual/sidewalk-cafe/Bally%27s-Las-Vegas-Dining-Casual-Sidewalk-Cafe-1.jpeg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Daily",
+        "time": "6am-2pm"
+      }],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "6am-2pm"
+      }]
+    },
+        {
+      "propCode": "phv",
+      "name": "Spice Market Buffet",
+      "brand": "planet_hollywood",
+      "phone": "(702) 785-5555",
+      "averagecheck": "$25 to $40",
+      "market": "lvm",
+      "propertyRank": "100",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/spice-market-buffet.html",
+      "averageCheck": "Mon-Thu Breakfast $15.99 Lunch $18.99 Dinner $27.99   Fri Breakfast $15.99 Lunch $18.99 Dinner $29.99  Sat Breakfast $18.99 Brunch $27.99 Dinner $29.99   Sun Breakfast $18.99 Brunch $27.99 Dinner $27.99",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$$",
+      "category": "buffet",
+      "shortDescription": "Voted the best buffet in Las Vegas! The Spice Market Buffet at Planet Hollywood features fare from all around the world and tantalizing desserts.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/phv/Dining/Buffet/spice market buffet/Planet-Hollywood-Resort-&-Casino-Dining-Buffet-Spice-Market-Buffet-1.jpg",
+      "logoImageUrl": "/content/dam/phv/Logos/Planet-Hollywood Resort & Casino-Logos-1.png",
+      "hours":       [
+                {
+          "day": "Breakfast&lt;br&gt;Mon-Fri ",
+          "time": "7:00AM-11:00AM"
+        },
+                {
+          "day": "Sat-Sun",
+          "time": "7:00AM-10:00AM"
+        },
+                {
+          "day": "&lt;br&gt;Weekend&lt;br&gt;Brunch",
+          "time": "10:00AM-3:00PM"
+        },
+                {
+          "day": "&lt;br&gt;Lunch&lt;br&gt;Mon-Fri",
+          "time": "11:00AM-3:00PM"
+        },
+                {
+          "day": "&lt;br&gt;Dinner&lt;br&gt;Sun-Thurs",
+          "time": "3:00PM-11:00PM"
+        },
+                {
+          "day": "Fri-Sat",
+          "time": "3:00PM-11:00PM"
+        }
+      ]
+    },
+        {
+      "propCode": "rlv",
+      "name": "Sports Deli",
+      "brand": "rio",
+      "phone": "(702) 777-7777",
+      "averagecheck": "$10",
+      "market": "lvm",
+      "propertyRank": "10",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/sports-deli.html",
+      "averageCheck": "$5/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Enjoy burgers, bratwursts, wood-fired pizzas and sandwiches without missing a moment of the action at the Sports Deli, next to Las Vegas&rsquo; Rio All-Suite Hotel and Casino sports book.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/rlv/Dining/Quick Bites/sports deli/Rio-All-Suite-Hotel-&-Casino-Dining-Quick-Bites-Sports-Deli-2.jpg",
+      "logoImageUrl": "/content/dam/clv/placeholder.jpg",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11am-1pm"
+        },
+                {
+          "day": "Fri,Sat",
+          "time": "11am-1am"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Sun-Thu ",
+          "time": "11am-11pm"
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "11am-1am"
+        }
+      ]
+    },
+        {
+      "propCode": "las",
+      "name": "Starbucks",
+      "brand": "harrahs",
+      "phone": "(702) 369-5000",
+      "averagecheck": "$5/Person",
+      "market": "lvm",
+      "propertyRank": "8",
+      "learnMoreURL": "http://www.harrahslasvegas.com/restaurants/starbucks-coffee.html",
+      "averageCheck": "$5/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Starbucks has two Las Vegas locations at Harrah&rsquo;s Las Vegas, near hotel registration and on the second floor between Toby Keith&rsquo;s and Ice Pan.",
+      "cuisine": "Cafe/Variety",
+      "url": "http://www.starbucks.com",
+      "mainImageUrl": "/content/dam/generic/Dining/Starbucks/Global-Dining-Starbucks-1.jpg",
+      "logoImageUrl": "/content/dam/generic/Dining/Starbucks/Global-Dining-Starbucks-1.jpg",
+      "facts":       [
+                {
+          "day": "Daily Lobby Location",
+          "time": "24 Hours"
+        },
+                {
+          "day": "Sun-Thu Promenade Location",
+          "time": "7am-1pm"
+        },
+                {
+          "day": "Fri,Sat Promenade Location",
+          "time": "7am-5pm"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Lobby, Daily",
+          "time": "24 hours"
+        },
+                {
+          "day": "Promenade, Daily",
+          "time": "7am-2pm  "
+        },
+                {
+          "day": "Promenade, Fri &amp; Sat",
+          "time": "7am-5pm"
+        }
+      ]
+    },
+        {
+      "propCode": "phv",
+      "name": "Starbucks",
+      "brand": "planet_hollywood",
+      "phone": "(702) 785-5555",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "9",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/starbucks.html",
+      "averageCheck": "$5/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Open 24 hours a day, the Starbucks Coffee at Planet Hollywood serves up America&rsquo;s most popular coffees and homemade pastries.",
+      "cuisine": "Cafe/Variety",
+      "url": "http://www.starbucks.com/",
+      "mainImageUrl": "/content/dam/generic/Dining/Starbucks/Global-Dining-Starbucks-1.jpg",
+      "logoImageUrl": "/content/dam/phv/Property/Logos/Planet-Hollywood-Resort-&-Casino-Property-Logos-9.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "propCode": "rlv",
+      "name": "Starbucks",
+      "brand": "rio",
+      "phone": "702-777-6436",
+      "averagecheck": "$5 to $15",
+      "propertyRank": "11",
+      "market": "lvm",
+      "location": "Pavillion Corridor/Ipanema Tower",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/starbucks-coffee.html",
+      "averageCheck": "$5/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Find Starbucks Coffee at two locations at Rio Las Vegas Hotel and Casino, next to the S&atilde;o Paulo Caf&eacute; at Pavilion Corridor and next to the Ipanema Tower elevators.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/generic/Dining/Starbucks/Global-Dining-Starbucks-1.jpg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Quick Bites/Starbucks/Rio-All-Suite-Hotel-&-Casino-Dining-Quick-Bites-Starbucks-1.",
+      "facts":       [
+                {
+          "day": "Pavillion Corridor Daily",
+          "time": "6:30am-1pm"
+        },
+                {
+          "day": "Ipanema Tower Sun-Thu",
+          "time": "5am-11pm"
+        },
+                {
+          "day": "Ipanema Tower Fri, Sat",
+          "time": "24 Hours"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Pavilion Corridor: Daily ",
+          "time": "6:30am-1pm"
+        },
+                {
+          "day": "Ipanema Tower: Sun-Thu ",
+          "time": "5am-11pm"
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "24 Hours"
+        }
+      ]
+    },
+        {
+      "propCode": "blv",
+      "name": "Steakhouse Bar",
+      "brand": "ballys",
+      "phone": "(702) 967-4661",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "3",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/steakhouse-bar.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$",
+      "category": "quick",
+      "shortDescription": "Enjoy specialty martinis and indulgent appetizers at the Bally&rsquo;s Las Vegas Steakhouse Bar.",
+      "cuisine": "American",
+      "mainImageUrl": "/content/dam/blv/Dining/Quick Bites/Bally%27s Steakhouse Bar/Bally%27s-Las-Vegas-Dining-Quick-Bites-Bally%27s-Steakhouse-Bar-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Daily",
+        "time": "5pm-11pm"
+      }],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "5pm-11pm"
+      }]
+    },
+        {
+      "propCode": "blv",
+      "name": "Sterling Brunch",
+      "brand": "ballys",
+      "phone": "(877) 346-4642",
+      "averagecheck": "$40+",
+      "market": "lvm",
+      "propertyRank": "100",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/sterling-brunch.html",
+      "marketRank": "4",
+      "averageCheck": "$85/Person",
+      "isFeatured": "true",
+      "attire": "Casual",
+      "expenseLevel": "$$$$",
+      "category": "buffet",
+      "shortDescription": "The most opulent Las Vegas fine dining is the Sterling Brunch at Bally&rsquo;s Las Vegas, with bottomless premium Champagne, caviar and whole lobster.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/blv/Dining/Buffet/Sterling Brunch/Bally%27s-Las-Vegas-Dining-Buffet-Sterling-Brunch-1.jpeg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts": [      {
+        "day": "Sun ",
+        "time": "9:30am-2:30pm"
+      }],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours": [      {
+        "day": "Sun",
+        "time": "9:30am-2:30pm"
+      }]
+    },
+        {
+      "rank": "1",
+      "propCode": "phv",
+      "name": "Strip House",
+      "brand": "planet_hollywood",
+      "phone": "(702) 737-5200",
+      "averagecheck": "$25 to $40",
+      "propertyRank": "2",
+      "market": "lvm",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/strip-house.html",
+      "averageCheck": "$40/Person",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/phv/Dining/Upscale/strip house/Strip-house-menu-5-10-13.pdf",
+      "shortDescription": "At Strip House, a premier Las Vegas steakhouse at Planet Hollywood, signature side dishes and infamous desserts accompany perfectly charred steaks.",
+      "cuisine": "Steakhouse",
+      "url": "http://www.striphouse.com/",
+      "chef": "Dustin Rixey",
+      "mainImageUrl": "/content/dam/phv/Dining/Upscale/strip house/Planet-Hollywood-Resort-&-Casino-Dining-Upscale-Strip-House-2.jpg",
+      "logoImageUrl": "/content/dam/phv/Property/Logos/Planet-Hollywood-Resort-&-Casino-Property-Logos-9.png",
+      "hours":       [
+                {
+          "day": "Sun-Thu",
+          "time": "5pm-11pm "
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "5pm-11:30pm"
+        }
+      ]
+    },
+        {
+      "propCode": "plv",
+      "rank": "1",
+      "name": "Sugar Factory American Brasserie",
+      "brand": "paris",
+      "phone": "(702) 331-5100",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "2",
+      "market": "lvm",
+      "learnMoreURL": "http://www.parislasvegas.com/restaurants/sugar-factory-american-brasserie.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "#&quot; style=&quot;position:absolute; left:-9999px;&quot;&gt;&lt;/a&gt;&lt;a href=&quot;/content/dam/plv/Dining/Casual/sugar factory/Paris-Las Vegas-Dining-Casual-sugar-factory-1.pdf&quot; target=&quot;_blank&quot; class=&quot;menu-link&quot; onclick=&quot;window.open('/content/dam/plv/Dining/Casual/sugar factory/Paris-Las Vegas-Dining-Casual-sugar-factory-1.pdf','','scrollbars=no, toolbar=no, status=no, menubar=no, resizable=no, location=no, ');&quot;&gt;See Menu&lt;/a&gt;&lt;a style=&quot;position:absolute; left:-9999px;&quot; href=&quot;#",
+      "shortDescription": "Sugar Factory is a Paris Las Vegas restaurant serving breakfast, lunch, dinner and late-night dining to celebrities, club-goers and your everyday sweet tooth.",
+      "cuisine": "American",
+      "url": "http://www.sugarfactory.com/",
+      "mainImageUrl": "/content/dam/plv/Dining/Casual/sugar factory/Paris-Las Vegas-Dining-Casual-Sugar-Factory-Logo-1.jpg",
+      "logoImageUrl": "/content/dam/plv/Dining/Casual/sugar factory/Paris-Las-Vegas-Dining-Casual-Sugar-Factory-3.png",
+      "hours": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }]
+    },
+        {
+      "rank": "1",
+      "propCode": "rlv",
+      "name": "S&atilde;o Paulo Caf&eacute;",
+      "brand": "rio",
+      "phone": "(702) 777-2761",
+      "averagecheck": "$14",
+      "propertyRank": "8",
+      "market": "lvm",
+      "learnMoreURL": "/content/property/rio-all-suite-hotel-and-casino/index/restaurants/sao-paulo-cafe",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "shortDescription": "Start your day at Rio All-Suite Hotel and Casino with a visit to S&atilde;o Paulo Caf&eacute; for their signature coffees and traditional breakfast items.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/rlv/Dining/Casual/sao paulo cafe/sao paulo caf?/Rio-All-Suite-Hotel-Dining-Casual-sao-paulo-caf?-5.jpg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Casual/sao paulo cafe/sao paulo caf?/Rio-All-Suite-Hotel-Dining-Casual-sao-paulo-caf?-5.jpg",
+      "facts":       [
+                {
+          "day": "Daily Breakfast",
+          "time": "6am-1pm"
+        },
+                {
+          "day": "Daily Lunch",
+          "time": "11am-1pm"
+        },
+                {
+          "day": "Sat &amp; Sun Dinner",
+          "time": "4pm-9:30pm"
+        }
+      ],
+      "hours": [      {
+        "day": "Daily Breakfast ",
+        "time": "6am-1pm"
+      }]
+    },
+        {
+      "propCode": "las",
+      "name": "The Caf&eacute; at Harrah's",
+      "brand": "harrahs",
+      "phone": "(702) 369-5000",
+      "averagecheck": "$5 to $15",
+      "market": "lvm",
+      "propertyRank": "4",
+      "learnMoreURL": "http://www.harrahslasvegas.com//restaurants/harrahs-cafe.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "shortDescription": "This casual Harrah&rsquo;s Las Vegas restaurant serves breakfast, lunch, and late-night favorites.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/las/Dining/Casual/Caf? at Harrah%27s/Harrah%27s-Las-Vegas-Dining-Casual-Café-at-Harrah%27s-1.jpg",
+      "logoImageUrl": "/content/dam/clv/Property/Logos/Caesars-Las-Vegas-Property-Logos-9.png",
+      "facts":       [
+                {
+          "day": "Mon-Thu",
+          "time": "6am-2pm, 11pm-6am"
+        },
+                {
+          "day": "Fri-Sun",
+          "time": "24 Hours"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Mon-Thu",
+          "time": "6am-2pm"
+        },
+                {
+          "day": "Fri-Sun",
+          "time": "24 hours"
+        }
+      ]
+    },
+        {
+      "propCode": "blv",
+      "name": "The Tequila Bar and Grill",
+      "brand": "ballys",
+      "phone": "(702) 967-4111",
+      "averagecheck": "$8",
+      "propertyRank": "5",
+      "market": "lvm",
+      "learnMoreURL": "http://www.ballyslasvegas.com/restaurants/tequila-bar-and-grill.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/blv/Dining/Casual/tequila-bar-and-grill/Tequila Bar and Grill Menu.pdf",
+      "shortDescription": "The Tequila Bar is a Las Vegas restaurant serving a &quot;south of the border&quot; taste including over 60 varieties of tequila, Mexican favorites, burgers and ribs.",
+      "cuisine": "Mexican/Southwestern",
+      "mainImageUrl": "/content/dam/blv/Dining/Casual/tequila-bar-and-grill/Bally%27s-Las-Vegas-Dining-Casual-tequila-bar-and-grill-1.jpg",
+      "logoImageUrl": "/content/dam/generic/photo-coming-soon.gif",
+      "facts":       [
+                {
+          "day": "Daily",
+          "time": "Grill 11:00am-6:00am "
+        },
+                {
+          "day": "Daily",
+          "time": "Bar 10:00am-6:00am"
+        }
+      ],
+      "whitelogo": "/content/dam/blv/Logos/Ballys-Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Grill Daily",
+          "time": "11am-6am"
+        },
+                {
+          "day": "Bar Daily",
+          "time": "10am-6am"
+        }
+      ]
+    },
+        {
+      "propCode": "las",
+      "name": "Toby Keith's I Love This Bar &amp; Grill",
+      "brand": "harrahs",
+      "phone": "(702) 369-5000",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "100",
+      "market": "lvm",
+      "learnMoreURL": "http://www.harrahslasvegas.com/restaurants/toby-keiths-i-love-this-bar-and-grill.html",
+      "marketRank": "1",
+      "averageCheck": "$15/Person",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/las/Dining/Casual/Toby Keith Menu.pdf",
+      "shortDescription": "Live country music and down-home Southern favorites make Toby Keith&rsquo;s Las Vegas restaurant at Harrah&rsquo;s your kind of place.",
+      "cuisine": "American",
+      "url": "http://www.tobykeithsbar.com/",
+      "mainImageUrl": "/content/dam/las/Dining/Casual/Toby Keith%27s I Love This Bar & Grill/Harrah%27s-Las-Vegas-Dining-Casual-Toby-Keith%27s-I-Love-This-Bar-5.jpg",
+      "logoImageUrl": "/content/dam/las/Dining/Casual/Toby Keith%27s I Love This Bar & Grill/Harrah%27s-Las-Vegas-Dining-Casual-Toby-Keith%27s-I-Love-This-Bar-&-Grill-1.jpg",
+      "facts":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11:30am-2am"
+        },
+                {
+          "day": "Fri,Sat",
+          "time": "11:30am-3am"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Sun-Thu",
+          "time": "11:30am-2am"
+        },
+                {
+          "day": "Fri &amp; Sat",
+          "time": "11:30am-3am"
+        }
+      ]
+    },
+        {
+      "propCode": "flv",
+      "name": "Tropical Breeze Caf&eacute;",
+      "brand": "flamingo",
+      "phone": "(702) 733-3111",
+      "averagecheck": "$15",
+      "propertyRank": "7",
+      "market": "lvm",
+      "learnMoreURL": "http://www.flamingolasvegas.com/restaurants/tropical-breeze-cafe.html",
+      "marketRank": "1",
+      "averageCheck": "$20/Person",
+      "attire": "Casual",
+      "expenseLevel": "$",
+      "category": "casual",
+      "shortDescription": "Flamingo Las Vegas Hotel and Casino&rsquo;s casual dining caf&eacute;, Tropical Breeze features an island setting and a menu full of American favorites and island specialties.",
+      "cuisine": "Cafe/Variety",
+      "mainImageUrl": "/content/dam/flv/Dining/Casual/Tropical Breeze/Flamingo-Las-Vegas-Dining-Casual-Tropical-Breeze-21.jpg",
+      "logoImageUrl": "/content/dam/flv/Property/Logos/Flamingo-Las-Vegas-Property-Logos-6.png",
+      "facts": [      {
+        "day": "Daily",
+        "time": "24 Hours"
+      }],
+      "whitelogo": "/content/dam/flv/Logos/Flamingo-Las Vegas-Logos-3.png",
+      "hours":       [
+                {
+          "day": "Sun-Thurs",
+          "time": "6am-2pm"
+        },
+                {
+          "day": "Friday-Saturday",
+          "time": "24hrs"
+        }
+      ]
+    },
+        {
+      "propCode": "rlv",
+      "name": "Village Seafood Buffet",
+      "brand": "rio",
+      "phone": "702-777-7943",
+      "averagecheck": "$40+",
+      "propertyRank": "1",
+      "market": "lvm",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/village-seafood-buffet.html",
+      "marketRank": "1",
+      "averageCheck": "$44.99/Person $25/Children 3-8 ",
+      "attire": "Casual",
+      "expenseLevel": "$$$$",
+      "category": "buffet",
+      "shortDescription": "The Village Seafood Buffet at Rio Las Vegas Hotel and Casino is the only all-seafood, all-the-time, all-you-can-eat buffet in Las Vegas.",
+      "cuisine": "Buffet",
+      "mainImageUrl": "/content/dam/rlv/Dining/Buffet/village buffet/Rio-All-Suite-Hotel-Dining-Buffet-village-buffet-8.jpg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Buffet/Village Buffet/Rio-All-Suite-Hotel-&-Casino-Dining-Buffet-Village-Buffet-1.png",
+      "facts":       [
+                {
+          "day": "Mon-Fri",
+          "time": "4pm-10pm"
+        },
+                {
+          "day": "Sat-Sun",
+          "time": "3:30pm-10pm"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Thurs - Mon",
+          "time": "3:30pm &ndash; 9:30pm"
+        },
+                {
+          "day": "Tues - Wed",
+          "time": "Closed"
+        }
+      ]
+    },
+        {
+      "propCode": "rlv",
+      "name": "VooDoo Steakhouse",
+      "brand": "rio",
+      "phone": "702-777-7800",
+      "averagecheck": "$45",
+      "propertyRank": "3",
+      "market": "lvm",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/voodoo-steak-and-rooftop-nightclub.html",
+      "marketRank": "1",
+      "attire": "Business Casual",
+      "expenseLevel": "$$$",
+      "category": "upscale",
+      "dinnerMenu": "/content/dam/rlv/Dining/Upscale/voodoo steakhouse/Voodoo Steak Menu.pdf",
+      "shortDescription": "50 stories above the neon of Las Vegas, VooDoo Steak is a spellbinding gourmet room serving Rio Las Vegas house-aged steaks and Cajun cuisine.",
+      "cuisine": "Steakhouse",
+      "mainImageUrl": "/content/dam/rlv/Dining/Upscale/voodoo steakhouse/Rio-All-Suite-Hotel-&-Casino-Dining-Upscale-VooDoo-Steakhouse-1.jpg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Upscale/voodoo steakhouse/Rio-All-Suite-Hotel-&-Casino-Dining-Upscale-VooDoo-Steakhouse-1.jpg",
+      "facts": [      {
+        "day": "Nightly",
+        "time": "5pm-11pm"
+      }],
+      "hours": [      {
+        "day": "Nightly",
+        "time": "5pm-11pm"
+      }]
+    },
+        {
+      "propCode": "rlv",
+      "name": "Wine Cellar &amp; Tasting Room",
+      "brand": "rio",
+      "phone": "702-777-7962",
+      "propertyRank": "6",
+      "market": "lvm",
+      "learnMoreURL": "http://www.riolasvegas.com/restaurants/wine-cellar-and-tasting-room.html",
+      "marketRank": "1",
+      "averageCheck": "$15/person",
+      "attire": "Casual",
+      "expenseLevel": "$$$",
+      "category": "casual",
+      "shortDescription": "The Rio Las Vegas Wine Cellar and Tasting Room is a hidden gem where you can enjoy wine pairings, international cheeses and spreads, chocolate tasting menus and over 100 wines by the glass.",
+      "cuisine": "Wine Bar",
+      "mainImageUrl": "/content/dam/rlv/Dining/Casual/wine cellar/Rio-All-Suite-Hotel-&-Casino-Dining-Casual-Wine-Cellar-1.jpg",
+      "logoImageUrl": "/content/dam/rlv/Dining/Casual/wine cellar/Rio-All-Suite-Hotel-Dining-Casual-wine-cellar-2.jpg",
+      "facts":       [
+                {
+          "day": "Mon-Thu",
+          "time": "4pm-10pm"
+        },
+                {
+          "day": "Fri, Sat",
+          "time": "3pm-11pm"
+        },
+                {
+          "day": "Sun",
+          "time": "3pm-10pm"
+        }
+      ],
+      "hours":       [
+                {
+          "day": "Mon-Thu",
+          "time": "4pm-10pm"
+        },
+                {
+          "day": "Fri &amp; Sat   ",
+          "time": "3pm-11pm"
+        },
+                {
+          "day": "Sun ",
+          "time": "3pm-10pm"
+        }
+      ]
+    },
+        {
+      "propCode": "phv",
+      "name": "Yol&ouml;s",
+      "brand": "planet_hollywood",
+      "phone": "(702) 785-0122",
+      "averagecheck": "$15 to $25",
+      "propertyRank": "5",
+      "market": "lvm",
+      "learnMoreURL": "http://www.planethollywoodresort.com/restaurants/yolos.html",
+      "averageCheck": "$15/Person",
+      "marketRank": "1",
+      "attire": "Casual",
+      "expenseLevel": "$$",
+      "category": "casual",
+      "dinnerMenu": "/content/dam/phv/Dining/Casual/yolos/YOLOS_Menu_WEB_1_28.pdf",
+      "shortDescription": "You only live once, so have a meal at this Las Vegas Mexican restaurant and sip of one of over 60 tequilas at this energetic cantina inside Planet Hollywood.",
+      "cuisine": "Mexican/Southwestern",
+      "url": "http://www.arkvegas.com/restaurant/yolos-mexican-grill/",
+      "mainImageUrl": "/content/dam/phv/Dining/Casual/yolos/Planet-Hollywood-Resort-&-Casino-Dining-Casual-Yolos-3.jpg",
+      "logoImageUrl": "/content/dam/phv/Logos/Planet-Hollywood Resort & Casino-Logos-1.png",
+      "hours":       [
+                {
+          "day": "Restaurant &lt;br&gt;Sun-Thu   ",
+          "time": "11am-10:00pm"
+        },
+                {
+          "day": "Fri &amp; Sat ",
+          "time": "11:30am-12:00am"
+        },
+                {
+          "day": "&lt;br&gt;&lt;br&gt;Bar &lt;br&gt;Sun &amp; Mon ",
+          "time": "11:30am-12:00am"
+        },
+                {
+          "day": "Tue-Thu ",
+          "time": "11:30am-1:00am"
+        },
+                {
+          "day": "Fri-Sat ",
+          "time": "11:30am-4:00am"
+        }
+      ]
+    }
+  ]
+}
