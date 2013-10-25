@@ -17,18 +17,16 @@ class Plucker
   def pluck
     json = File.read(@app_map['file'])
     parsed_json = JSON.parse(json)
-    recursive_find('name', parsed_json)
+    recursive_find(@app_map['key'], parsed_json)
 
     print
   end
 
   def print
-    if @app_map['output']
-      File.open(@app_map['output'], "w") do |file|
-        file.write @results.join("\n")
-      end
-    else
-      puts @results
+    File.open(@app_map['file'] + ".txt", "w") do |file|
+      file.write "#{@results.count} results"
+      file.write "\n\n"
+      file.write @results.join("\n")
     end
   end
 
@@ -59,12 +57,12 @@ class Plucker
 end
 
 if ARGV.empty?
+  # Some sort of helpful text output would be nice here
   puts "Oops!"
 else
   app_map = {
     'file' => ARGV[0],
-    'output' => ARGV[1],
-    'key' => ARGV[2]
+    'key' => ARGV[1]
   }
 
   plucker = Plucker.new app_map
