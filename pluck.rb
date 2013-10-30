@@ -24,9 +24,9 @@ class Plucker
 
   def print
     File.open(@app_map['file'] + ".txt", "w") do |file|
-      file.write "#{@results.count} results"
+      file.write "#{@results.uniq.count} results"
       file.write "\n\n"
-      file.write @results.join("\n")
+      file.write @results.uniq.join("\n")
     end
   end
 
